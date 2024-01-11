@@ -1,0 +1,92 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 14.6rem;
+}.login-button-t41 {
+  border-radius: 0.5rem;
+  position: relative;
+  flex-direction: column;
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  border: dashed 0.1rem #9747ff;
+  box-sizing: border-box;
+  padding: 2rem 4rem 2rem 2rem;
+
+  .property-1default-Qo3 {
+    height: 4.5rem;
+    position: relative;
+    font-weight: 400;
+    align-items: center;
+    box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+    line-height: 1.3888888889;
+    border-radius: 0.8063rem;
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-bottom: 1.9rem;
+    cursor: pointer;
+    overflow: hidden;
+    font-size: 1.8rem;
+    font-family: Open Sans, 'Source Sans Pro';
+    width: 100%;
+    color: #424242;
+    white-space: nowrap;
+  }
+  .property-1hover-U2D {
+    overflow: hidden;
+    position: relative;
+    color: #424242;
+    border: solid 0.0806rem #32794e;
+    flex-shrink: 0;
+    font-size: 1.8rem;
+    align-items: center;
+    box-sizing: border-box;
+    box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+    border-radius: 0.8063rem;
+    margin-bottom: 2.8rem;
+    font-family: Open Sans, 'Source Sans Pro';
+    white-space: nowrap;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 4.5rem;
+    cursor: pointer;
+    font-weight: 400;
+    line-height: 1.3888888889;
+  }
+  .property-1onclick-iBT {
+    flex-shrink: 0;
+    color: #252525;
+    border: solid 0.0806rem #32794e;
+    line-height: 1.3888888889;
+    box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+    background-color: #beeac2;
+    position: relative;
+    font-weight: 400;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border-radius: 0.8063rem;
+    height: 4.5rem;
+    font-family: Open Sans, 'Source Sans Pro';
+    font-size: 1.8rem;
+    white-space: nowrap;
+    display: flex;
+    width: 100%;
+    overflow: hidden;
+  }
+}

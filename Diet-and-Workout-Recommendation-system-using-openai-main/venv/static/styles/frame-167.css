@@ -1,0 +1,199 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 25rem;
+}.frame-167-JYq {
+  width: 100%;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-167-JYq .component-5-rKT {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #32794e;
+  box-shadow: 0.1rem 0.1rem 0.6rem #9e9e9e;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-5-rKT .frame-49-bnq {
+  width: 11.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-167-JYq .component-5-rKT .frame-49-bnq .distributor-menu-icons-A5F {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-5-rKT .frame-49-bnq .dashboard-HvZ {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-1-PCu {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-1-PCu .frame-49-jGm {
+  width: 9.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-167-JYq .component-1-PCu .frame-49-jGm .distributor-menu-icons-HZB {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-1-PCu .frame-49-jGm .dashboard-RfP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-2-jAH {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-2-jAH .frame-49-g5X {
+  width: 6.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-167-JYq .component-2-jAH .frame-49-g5X .distributor-menu-icons-2fB {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-2-jAH .frame-49-g5X .dashboard-Zv1 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-3-GpR {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-3-GpR .frame-49-ctH {
+  width: 7.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-167-JYq .component-3-GpR .frame-49-ctH .distributor-menu-icons-yTw {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-3-GpR .frame-49-ctH .dashboard-7q3 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-4-E8y {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-4-E8y .frame-49-ycM {
+  width: 12.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-167-JYq .component-4-E8y .frame-49-ycM .distributor-menu-icons-w3P {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-167-JYq .component-4-E8y .frame-49-ycM .dashboard-4th {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

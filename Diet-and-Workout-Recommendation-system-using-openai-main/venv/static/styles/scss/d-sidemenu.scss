@@ -1,0 +1,194 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 24rem;
+}.d-sidemenu-Euf {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  row-gap: 1.5rem;
+
+  .dashboard-aid {
+    box-sizing: border-box;
+    padding: 1.5rem 1.5rem 2rem 1.5rem;
+    width: 100%;
+    height: 5.7rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    flex-shrink: 0;
+
+    .frame-49-iK3 {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      width: 11.3rem;
+
+      .distributor-menu-icons-fk5 {
+        margin-right: 1rem;
+        width: 2rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .dashboard-QSm {
+        color: #252525;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+      }
+    }
+  }
+  .products-XnH {
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 1.5rem 1.5rem 2rem 1.5rem;
+    width: 100%;
+    height: 5.7rem;
+    cursor: pointer;
+    border-radius: 1rem;
+
+    .frame-49-ftV {
+      align-items: center;
+      width: 9.7rem;
+      height: 100%;
+      display: flex;
+
+      .distributor-menu-icons-daR {
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 1rem;
+        width: 2rem;
+        height: 2rem;
+      }
+      .dashboard-QUh {
+        line-height: 1.375;
+        color: #252525;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 400;
+      }
+    }
+  }
+  .sales-jG5 {
+    box-sizing: border-box;
+    padding: 1.5rem 1.5rem 2rem 1.5rem;
+    width: 100%;
+    height: 5.7rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    flex-shrink: 0;
+
+    .frame-49-fQd {
+      height: 100%;
+      display: flex;
+      align-items: center;
+      width: 6.9rem;
+
+      .distributor-menu-icons-2FB {
+        margin-right: 1rem;
+        width: 2rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .dashboard-NK3 {
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+        color: #252525;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .profile-h6R {
+    box-sizing: border-box;
+    padding: 1.5rem 1.5rem 2rem 1.5rem;
+    width: 100%;
+    height: 5.7rem;
+    cursor: pointer;
+    border-radius: 1rem;
+    flex-shrink: 0;
+
+    .frame-49-2eV {
+      align-items: center;
+      width: 7.9rem;
+      height: 100%;
+      display: flex;
+
+      .distributor-menu-icons-ndf {
+        margin-right: 1rem;
+        width: 2rem;
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .dashboard-LQH {
+        color: #252525;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+      }
+    }
+  }
+  .add-UWV {
+    cursor: pointer;
+    border-radius: 1rem;
+    flex-shrink: 0;
+    box-sizing: border-box;
+    padding: 1.5rem 1.5rem 2rem 1.5rem;
+    width: 100%;
+    height: 5.7rem;
+
+    .frame-49-csb {
+      width: 13.1rem;
+      height: 100%;
+      display: flex;
+      align-items: center;
+
+      .distributor-menu-icons-aZX {
+        height: 2rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 1rem;
+        width: 2rem;
+      }
+      .dashboard-KX7 {
+        font-weight: 400;
+        line-height: 1.375;
+        color: #252525;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+      }
+    }
+  }
+}

@@ -1,0 +1,330 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 112.5rem;
+}.component-6-41f {
+  box-sizing: border-box;
+  padding: 2rem 1rem 2rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-6-41f .property-1default-Bry {
+  margin-bottom: 4.4rem;
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .ellipse-57-h4d {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-186-2Mo {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-186-2Mo .ellipse-56-9SR {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-186-2Mo .frame-185-4pH {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-186-2Mo .frame-185-4pH .product-name-Ruj {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-186-2Mo .frame-185-4pH .sft1-MoP {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .item-9000-toK {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .item-10-02-2021-Qmf {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-188-wWh {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-188-wWh .frame-99-tRw {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.component-6-41f .property-1default-Bry .frame-188-wWh .frame-99-tRw .item-32-Dz1 {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-188-wWh .frame-99-tRw .group-22-9cm {
+  margin-top: 0rem;
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-188-wWh .frame-98-tKT {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.component-6-41f .property-1default-Bry .dr-xyz-ZRb {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1default-Bry .frame-96-V4M {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #f5fff8;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .ellipse-57-WVF {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-186-qnR {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-186-qnR .ellipse-56-PJ9 {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-186-qnR .frame-185-Jvu {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-186-qnR .frame-185-Jvu .product-name-sUD {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-186-qnR .frame-185-Jvu .sft1-1aR {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .item-9000-9gd {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .item-10-02-2021-GmF {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-188-Pay {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-188-Pay .frame-99-kAd {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.component-6-41f .property-1hover-b7P .frame-188-Pay .frame-99-kAd .item-32-HRT {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-188-Pay .frame-99-kAd .group-22-pRP {
+  margin-top: 0rem;
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-188-Pay .frame-98-xXb {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.component-6-41f .property-1hover-b7P .dr-xyz-Ezu {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.component-6-41f .property-1hover-b7P .frame-96-ySh {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}

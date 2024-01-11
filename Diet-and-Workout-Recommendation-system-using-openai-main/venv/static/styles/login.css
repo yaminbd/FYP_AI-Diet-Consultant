@@ -1,0 +1,417 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.login-KdT {
+  width: 100%;
+  height: 96rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.login-KdT .rectangle-33-eQq {
+  width: 88.1rem;
+  height: 96rem;
+  position: absolute;
+  left: 74rem;
+  top: 0;
+  background: linear-gradient(270.17deg, #ffffff 2.26%, rgba(255, 255, 255, 0) 21.05%);
+  background-size: 178.099% 100.017%;
+  background-position: -0rem -0.0081rem;
+  background-image: url('../assets/rectangle-33-bg.png');
+}
+.login-KdT .rectangle-33-eQq .rectangle-33-eQq-bg {
+  width: 88.1rem;
+  height: 96rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:e625a317942964d48c1d7ee5e86a6725500a7f27');
+}
+.login-KdT .rectangle-20-F9j {
+  width: 172.4rem;
+  height: 52.35rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-KdT .rectangle-21-Zw7 {
+  width: 208.25rem;
+  height: 46.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.login-KdT .nav-text-items-hnR {
+  width: 48.8858rem;
+  height: 5.0096rem;
+  position: absolute;
+  left: 4.5142rem;
+  top: 2.5904rem;
+  display: flex;
+  align-items: flex-end;
+}
+.login-KdT .nav-text-items-hnR .group-1-ps3 {
+  margin: 0rem 6.5rem 0.425rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.login-KdT .nav-text-items-hnR .group-1-ps3 .healthybite-kkh {
+  margin-right: 4.2394rem;
+  font-size: 2.4892rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  letter-spacing: 0.0996rem;
+  color: #32794e;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .nav-text-items-hnR .group-1-ps3 .group-FhT {
+  margin-top: 0.7349rem;
+  width: 4.6465rem;
+  height: 3.8494rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-KdT .nav-text-items-hnR .features-aUq {
+  margin-right: 6.5rem;
+  width: 10.2rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.login-KdT .nav-text-items-hnR .blogs-3tD {
+  width: 7.1rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH {
+  width: 43.9rem;
+  height: 57.2rem;
+  position: absolute;
+  left: 15.1rem;
+  top: 15rem;
+  row-gap: 4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.login-KdT .form-xkH .login-5a1 {
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F {
+  margin-bottom: 5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .email-button-8YH {
+  margin-bottom: 4rem;
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .email-button-8YH .email-gZo {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .email-button-8YH .box-DJq {
+  box-sizing: border-box;
+  padding: 1.3rem 1.5rem 1.3rem 1.5rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .email-button-8YH .box-DJq .text-LuF {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .email-button-8YH .box-DJq .text-LuF .abcgmailcom-WYq {
+  margin: 0rem 28rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #e0e0e0;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .email-button-8YH .box-DJq .text-LuF .group-ddT {
+  width: 2.6rem;
+  height: 1.5889rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M {
+  width: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M .passwordbutton-hNR {
+  margin-bottom: 0.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M .passwordbutton-hNR .password-F93 {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M .passwordbutton-hNR .box-yqj {
+  box-sizing: border-box;
+  padding: 0rem 1.4rem 0rem 1.5rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M .passwordbutton-hNR .box-yqj .text-KPo {
+  width: 100%;
+  height: 3.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M .passwordbutton-hNR .box-yqj .text-KPo .item--UXb {
+  margin-right: 28rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3571428571;
+  color: #e0e0e0;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M .passwordbutton-hNR .box-yqj .text-KPo .password-icon-Bgu {
+  margin-bottom: 0.1839rem;
+  width: 2.6rem;
+  height: 1.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .details-B7F .pswd-w8M .forget-passwprd-Uvu {
+  width: 12.2rem;
+  height: 1.9rem;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq {
+  width: 43.8rem;
+  row-gap: 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .login-button-hYm {
+  width: 100%;
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #32794e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .or-continue-with-zXs {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .frame-18-jVT {
+  margin: 0 4.4rem;
+  width: calc(100% - 8.8rem);
+  height: 5rem;
+  display: flex;
+  column-gap: 5rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .frame-18-jVT .frame-14-TgM {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .frame-18-jVT .frame-15-c3T {
+  width: 5rem;
+  height: 5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .frame-18-jVT .frame-16-M13 {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #ddf7e3;
+  box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .frame-18-jVT .frame-16-M13 .pngwing-20-hqb {
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .frame-18-jVT .frame-17-CGZ {
+  box-sizing: border-box;
+  padding: 1rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #ddf7e3;
+  box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .frame-20-2EM .frame-19-AYq .frame-18-jVT .frame-17-CGZ .pngwing-21-wjw {
+  width: 3rem;
+  height: 3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.login-KdT .form-xkH .text-2mP {
+  margin: 0rem 7.9rem 0rem 8.4rem;
+  width: calc(100% - 16.3rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .text-2mP .dont-have-an-account-M2y {
+  margin-right: 1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.login-KdT .form-xkH .text-2mP .sigin-sGD {
+  box-sizing: border-box;
+  padding-left: 0.3rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

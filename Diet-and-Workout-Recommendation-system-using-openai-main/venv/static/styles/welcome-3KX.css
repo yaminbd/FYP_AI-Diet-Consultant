@@ -1,0 +1,153 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.welcome-JVX {
+  width: 100%;
+  height: 96rem;
+  cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.welcome-JVX .rectangle-33-r1F {
+  width: 88.1rem;
+  height: 96rem;
+  position: absolute;
+  left: 73.9rem;
+  top: 0;
+  background: linear-gradient(270.17deg, #ffffff 2.26%, rgba(255, 255, 255, 0) 21.05%);
+  background-size: 178.099% 100.017%;
+  background-position: -0rem -0.0081rem;
+  background-image: url('../assets/rectangle-33-bg-Lvd.png');
+}
+.welcome-JVX .rectangle-33-r1F .rectangle-33-r1F-bg {
+  width: 88.1rem;
+  height: 96rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:e625a317942964d48c1d7ee5e86a6725500a7f27');
+}
+.welcome-JVX .rectangle-20-HcM {
+  width: 172.4rem;
+  height: 52.35rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.welcome-JVX .rectangle-21-RTf {
+  width: 208.25rem;
+  height: 46.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.welcome-JVX .nav-text-items-xyP {
+  width: 48.8859rem;
+  height: 5.0096rem;
+  position: absolute;
+  left: 4.5141rem;
+  top: 2.5904rem;
+  display: flex;
+  align-items: flex-end;
+}
+.welcome-JVX .nav-text-items-xyP .group-1-ViR {
+  margin: 0rem 6.5rem 0.425rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.welcome-JVX .nav-text-items-xyP .group-1-ViR .healthybite-Evu {
+  margin-right: 4.2395rem;
+  font-size: 2.4892rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  letter-spacing: 0.0996rem;
+  color: #32794e;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.welcome-JVX .nav-text-items-xyP .group-1-ViR .group-keM {
+  margin-top: 0.7349rem;
+  width: 4.6465rem;
+  height: 3.8494rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.welcome-JVX .nav-text-items-xyP .features-HeH {
+  margin-right: 6.5rem;
+  width: 10.2rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.welcome-JVX .nav-text-items-xyP .blogs-yX7 {
+  width: 7.1rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.welcome-JVX .frame-23-hCD {
+  width: 47.9rem;
+  height: 27.5rem;
+  position: absolute;
+  left: 13.5rem;
+  top: 30rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.welcome-JVX .frame-23-hCD .group-EC9 {
+  margin: 0rem 0rem 4rem 0rem;
+  width: 21.7269rem;
+  height: 18rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.welcome-JVX .frame-23-hCD .welcome-to-healthybite-kwB {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

@@ -1,0 +1,3170 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.landing-HgM {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.landing-HgM .auto-group-x9bx-JbT {
+  margin-bottom: 8.8rem;
+  width: 100%;
+  height: 190.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh {
+  box-sizing: border-box;
+  padding: 3rem 9.5rem;
+  width: 126rem;
+  height: 25.3rem;
+  position: absolute;
+  left: 18.1rem;
+  top: 158.1rem;
+  overflow: hidden;
+  box-shadow: -0.5rem 0.5rem 0.7rem rgba(190, 234, 194, 0.5), 0.5rem -0.5rem 0.4rem rgba(190, 234, 194, 0.5);
+  background-color: #f1fff4;
+  border-radius: 5rem 0 0 5rem;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .teading-text-QgR {
+  margin: 0rem 37.6rem 1.5rem 29.5rem;
+  width: calc(100% - 67.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .teading-text-QgR .we-have-plans-for-v8y {
+  margin-bottom: 1rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .teading-text-QgR .build-healthier-habits-with-personalized-lessons-vgh {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .rectangle-9-dLD {
+  margin-bottom: 4rem;
+  width: 100%;
+  height: 0.5rem;
+  background: radial-gradient(50% 50% at 50% 50%, #599c67 0%, rgba(89, 156, 103, 0) 100%);
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 {
+  margin-right: 1.2rem;
+  height: 6rem;
+  display: flex;
+  column-gap: 15rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-1-DpD {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-1-DpD .icon1-a8y {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0.7rem 0.8rem 0.8rem;
+  height: 100%;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-1-DpD .icon1-a8y .apple-1-hDb {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-1-DpD .loosing-weight-Zmb {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-2-4yF {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-2-4yF .icon2-phX {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.8rem 0.7rem 0.7rem 0.8rem;
+  height: 100%;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-2-4yF .icon2-phX .banana-1-xHw {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-2-4yF .gaining-weight-sA1 {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-3-Cxy {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-3-Cxy .icon3-A97 {
+  margin-right: 1rem;
+  box-sizing: border-box;
+  padding: 0.7rem 0.8rem 0.8rem 0.7rem;
+  height: 100%;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-3-Cxy .icon3-A97 .avocado-1-6YZ {
+  width: 4.5rem;
+  height: 4.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-x9bx-JbT .box-Zvh .text-reu .plan-for-list-hL5 .item-3-Cxy .maintaining-weight-ztq {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb {
+  width: 152.5rem;
+  height: 107rem;
+  position: absolute;
+  left: 0;
+  top: 77.6rem;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .pics-BCd {
+  width: 60.4rem;
+  height: 59.7rem;
+  position: absolute;
+  left: 66.8rem;
+  top: 7.7rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .pics-BCd .auto-group-m5n1-WVo {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .pics-BCd .auto-group-m5n1-WVo .rectangle-6-FiH {
+  margin-right: 2.5rem;
+  width: 27.6rem;
+  height: 22.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .pics-BCd .auto-group-m5n1-WVo .rectangle-4-PJh {
+  width: 30.3rem;
+  height: 39.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .pics-BCd .rectangle-7-unq {
+  width: 60.4rem;
+  height: 17.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .lifestyle-text-eVX {
+  width: 73.3rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 16.8rem;
+  top: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .lifestyle-text-eVX .lifestyle-aty {
+  width: 73.3rem;
+  height: 20.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 15rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #f5f5f5;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .lifestyle-text-eVX .why-healthy-J4H {
+  width: 25.1rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 25.1rem;
+  top: 7.4rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .auto-group-x9bx-JbT .section2-eTb .strawberries-zxh {
+  width: 60.2rem;
+  height: 60.2rem;
+  position: absolute;
+  left: 0;
+  top: 46.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj {
+  width: 166.05rem;
+  height: 150.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh {
+  margin-bottom: 24.65rem;
+  width: 100%;
+  height: 85.05rem;
+  position: relative;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .rectangle-3-1N1 {
+  width: 144rem;
+  height: 79.85rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .rectangle-4-9j7 {
+  width: 157.1rem;
+  height: 85.05rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 {
+  width: 147.15rem;
+  height: 53.4rem;
+  position: absolute;
+  left: 10rem;
+  top: 14rem;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu {
+  margin: 8.8rem 26.4rem 8.8rem 0rem;
+  width: 36.2rem;
+  height: calc(100% - 17.6rem);
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .text-MKP {
+  margin-bottom: 5.5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .text-MKP .healthy-living-made-easy-urh {
+  margin-bottom: 6.2rem;
+  max-width: 35.4rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .text-MKP .healthy-living-made-easy-urh .healthy-living-made-easy-urh-sub-0 {
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 0.7857142857;
+  color: #db2f38;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .text-MKP .healthy-living-made-easy-urh .healthy-living-made-easy-urh-sub-1 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .text-MKP .healthy-living-made-easy-urh .healthy-living-made-easy-urh-sub-2 {
+  font-size: 4rem;
+  font-weight: 300;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .text-MKP .get-your-custom-plans-one-on-one-guidance-from-our-experts-2rm {
+  max-width: 36.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .signin-LMf {
+  width: 23.5rem;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .signin-LMf .signin-hT7 {
+  margin-bottom: 0.5rem;
+  width: 100%;
+  height: 5.3rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.2rem 0.3rem 0.6rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #beeac2 40.02%, rgba(190, 234, 194, 0.5) 100%);
+  border-radius: 1rem;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .text-cintent-2nu .signin-LMf .sign-in-get-started-today-UsB {
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .s-JM7 .pngwing-2-zqX {
+  width: 84.55rem;
+  height: 53.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 {
+  width: 123.4858rem;
+  height: 5.0096rem;
+  position: absolute;
+  left: 10.8142rem;
+  top: 3.0904rem;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .nav-text-items-rcq {
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .nav-text-items-rcq .group-1-Cwb {
+  margin: 0rem 5rem 0.425rem 0rem;
+  width: 21.5858rem;
+  height: 4.5843rem;
+  display: flex;
+  font-size: 2.4892rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  letter-spacing: 0.0996rem;
+  color: #32794e;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .nav-text-items-rcq .features-fqB {
+  margin-right: 5rem;
+  width: 10.2rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .nav-text-items-rcq .blogs-A1F {
+  width: 7.1rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .auto-group-igfk-sRT {
+  box-sizing: border-box;
+  padding: 0.31rem 0rem 0rem 2.7rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .auto-group-igfk-sRT .consultant-11s {
+  margin-right: 31.6rem;
+  width: 16.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .auto-group-igfk-sRT .buttons-74u {
+  margin-bottom: 0.2rem;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .auto-group-igfk-sRT .buttons-74u .login-button-RrH {
+  margin-right: 5rem;
+  width: 8.6rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.8063rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .auto-group-djem-sWh .navigation-bar-vz5 .auto-group-igfk-sRT .buttons-74u .signin-button-UZf {
+  width: 10.2rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.0806rem #32794e;
+  box-sizing: border-box;
+  box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.8063rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm {
+  margin-left: 27.7rem;
+  width: 30.2rem;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT {
+  box-sizing: border-box;
+  padding-bottom: 5rem;
+  width: 100%;
+  row-gap: 5rem;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-1-N2m {
+  margin-right: 0.2rem;
+  width: calc(100% - 0.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-1-N2m .tttick-hqj {
+  margin-right: 3rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-1-N2m .improved-physical-health-dzH {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-2-y2Z {
+  margin-right: 4.4rem;
+  width: calc(100% - 4.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-2-y2Z .tttick-iF3 {
+  margin-right: 3rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-2-y2Z .better-mental-health-4Zo {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-3-oGV {
+  margin-right: 5.7rem;
+  width: calc(100% - 5.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-3-oGV .tttick-9r9 {
+  margin-right: 3rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-3-oGV .increased-longevity-uKX {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-4-Ech {
+  margin-right: 4.2rem;
+  width: calc(100% - 4.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-4-Ech .tttick-neD {
+  margin-right: 3rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .auto-group-aofp-esT .item-4-Ech .weight-management-wGD {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .item-5-fxu {
+  margin-bottom: 5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .item-5-fxu .tttick-q6h {
+  margin-right: 3rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .item-5-fxu .improved-self-confidence-NMX {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .item-6-iAV {
+  margin-right: 9.5rem;
+  width: calc(100% - 9.5rem);
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .item-6-iAV .tttick-fLd {
+  margin-right: 3rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-x9bx-JbT .section1-Xhj .why-healthy-list-vAm .item-6-iAV .reduced-stress-QJD {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 {
+  margin: 0rem 10rem 7.1rem 10rem;
+  width: calc(100% - 20rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .have-a-healthybite-for-4tZ {
+  margin: 0rem 0rem 7rem 0.2rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .have-a-healthybite-for-4tZ .have-a-healthybite-for-4tZ-sub-0 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section3-wJ9 .have-a-healthybite-for-4tZ .have-a-healthybite-for-4tZ-sub-1 {
+}
+.landing-HgM .section3-wJ9 .have-a-healthybite-for-4tZ .have-a-healthybite-for-4tZ-sub-2 {
+  font-size: 6rem;
+  font-weight: 700;
+  line-height: 0.9166666667;
+  color: #db2f38;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section3-wJ9 .have-a-healthybite-for-4tZ .have-a-healthybite-for-4tZ-sub-3 {
+}
+.landing-HgM .section3-wJ9 .have-a-healthybite-for-4tZ .have-a-healthybite-for-4tZ-sub-4 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section3-wJ9 .list-zZF {
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z {
+  margin-bottom: 6rem;
+  width: 100%;
+  height: 22.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-1-WXb {
+  margin-right: 10.2rem;
+  width: 56.9rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-1-WXb .content-rrM {
+  margin: 0rem 0.7rem 1.5rem 2.3rem;
+  width: calc(100% - 3rem);
+  height: 20.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-1-WXb .content-rrM .pngwing-7-zSm {
+  margin-right: 1rem;
+  width: 20.8rem;
+  height: 20.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-1-WXb .content-rrM .text-8J5 {
+  margin: 2.8rem 0;
+  height: calc(100% - 5.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-1-WXb .content-rrM .text-8J5 .find-a-diet-you-love-Gv5 {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-1-WXb .content-rrM .text-8J5 .find-a-nutritious-diet-that-fits-your-lifestyle-and-food-preferences-take-charge-of-your-daily-habits-with-one-of-the-many-ongoing-diets-including-clean-eating-and-high-protein-DKX {
+  max-width: 32.1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-1-WXb .rectangle-10-Fn1 {
+  width: 100%;
+  height: 0.4rem;
+  background: radial-gradient(50% 50% at 50% 50%, #599c67 0%, rgba(89, 156, 103, 0) 100%);
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-2-mEZ {
+  width: 56.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-2-mEZ .content-KG5 {
+  margin: 0rem 1.9rem 1.5rem 2.3rem;
+  width: calc(100% - 4.2rem);
+  height: 20.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-2-mEZ .content-KG5 .pngwing-7-Etq {
+  margin-right: 1rem;
+  width: 20.8rem;
+  height: 20.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-2-mEZ .content-KG5 .text-nQZ {
+  margin: 2.8rem 0;
+  height: calc(100% - 5.6rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-2-mEZ .content-KG5 .text-nQZ .start-a-simplified-meal-plan-w2Z {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-2-mEZ .content-KG5 .text-nQZ .follow-a-7-21-day-meal-plan-and-get-four-pre-planned-recipes-a-day-depending-on-your-health-goals-there-are-many-meal-plans-to-choose-from-including-keto-burn-and-vegan-for-a-week-4N5 {
+  max-width: 30.9rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .top-Z6Z .item-2-mEZ .rectangle-10-K37 {
+  width: 100%;
+  height: 0.4rem;
+  background: radial-gradient(50% 50% at 50% 50%, #599c67 0%, rgba(89, 156, 103, 0) 100%);
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb {
+  width: 100%;
+  height: 22.7rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-3-nSV {
+  margin-right: 10.2rem;
+  width: 56.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-3-nSV .content-8WM {
+  margin: 0rem 1.1rem 1.5rem 2.3rem;
+  width: calc(100% - 3.4rem);
+  height: 20.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-3-nSV .content-8WM .pngwing-7-rhF {
+  margin-right: 1rem;
+  width: 20.8rem;
+  height: 20.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-3-nSV .content-8WM .text-bPw {
+  margin: 3.9rem 0;
+  height: calc(100% - 7.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-3-nSV .content-8WM .text-bPw .track-your-way-to-success-9AZ {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-3-nSV .content-8WM .text-bPw .track-your-activities-and-what-you-eat-with-the-help-of-our-food-exercise-and-water-trackers-to-maintain-a-balanced-everyday-life-GW5 {
+  max-width: 31.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-3-nSV .rectangle-10-juT {
+  width: 100%;
+  height: 0.4rem;
+  background: radial-gradient(50% 50% at 50% 50%, #599c67 0%, rgba(89, 156, 103, 0) 100%);
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-4-f2R {
+  width: 56.9rem;
+  height: 100%;
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-4-f2R .content-QVo {
+  margin: 0rem 0.1rem 1.5rem 2.3rem;
+  width: calc(100% - 2.4rem);
+  height: 20.8rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-4-f2R .content-QVo .pngwing-7-j2H {
+  margin-right: 1rem;
+  width: 20.8rem;
+  height: 20.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-4-f2R .content-QVo .text-fAq {
+  margin: 3.9rem 0;
+  height: calc(100% - 7.8rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-4-f2R .content-QVo .text-fAq .start-your-own-healthy-journey-mzZ {
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-4-f2R .content-QVo .text-fAq .to-help-you-reach-your-goals-and-customize-your-health-journey-you-can-add-your-favorite-meals-food-items-recipes-and-exercises-to-your-favorites-7BF {
+  max-width: 32.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .section3-wJ9 .list-zZF .bottom-dZb .item-4-f2R .rectangle-10-MrH {
+  width: 100%;
+  height: 0.4rem;
+  background: radial-gradient(50% 50% at 50% 50%, #599c67 0%, rgba(89, 156, 103, 0) 100%);
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 {
+  margin-bottom: 10rem;
+  width: 255.2153rem;
+  height: 280.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB {
+  width: 96.7rem;
+  height: 52rem;
+  position: absolute;
+  left: 10rem;
+  top: 34rem;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .what-is-a-healthybite-for-you--KRj {
+  margin-bottom: 6.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .what-is-a-healthybite-for-you--KRj .what-is-a-healthybite-for-you--KRj-sub-0 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .what-is-a-healthybite-for-you--KRj .what-is-a-healthybite-for-you--KRj-sub-1 {
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .what-is-a-healthybite-for-you--KRj .what-is-a-healthybite-for-you--KRj-sub-2 {
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #db2f38;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .what-is-a-healthybite-for-you--KRj .what-is-a-healthybite-for-you--KRj-sub-3 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth {
+  width: 100%;
+  height: 39.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .pngwing-9-RWh {
+  margin: 1.4rem 21.9rem 0rem 0rem;
+  width: 43.3rem;
+  height: 31.7827rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo {
+  width: 31.5rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT {
+  box-sizing: border-box;
+  padding-bottom: 3.5rem;
+  width: 100%;
+  row-gap: 3.5rem;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-1-DxM {
+  margin-right: 15.5rem;
+  width: calc(100% - 15.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-1-DxM .ellipse-4-yAq {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-1-DxM .diet-tracker-2uo {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-2-AWD {
+  margin-right: 7.3rem;
+  width: calc(100% - 7.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-2-AWD .ellipse-4-iGq {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-2-AWD .best-nutrition-advice-bbX {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-3-WyP {
+  margin-right: 12.7rem;
+  width: calc(100% - 12.7rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-3-WyP .ellipse-4-U9X {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-3-WyP .exercise-portal-ZAy {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-4-h2H {
+  margin-right: 14.2rem;
+  width: calc(100% - 14.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-4-h2H .ellipse-4-quB {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-4-h2H .meal-planner-Lqw {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-5-guo {
+  margin-right: 10.2rem;
+  width: calc(100% - 10.2rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-5-guo .ellipse-4-3EZ {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .auto-group-8sah-VmT .item-5-guo .recipes-database-LDf {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .item-6-fmj {
+  margin-bottom: 3.5rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .item-6-fmj .ellipse-4-DoF {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .item-6-fmj .one-stop-shop-for-nutritions-7dj {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .item-7-Fjw {
+  margin-right: 15.6rem;
+  width: calc(100% - 15.6rem);
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .item-7-Fjw .ellipse-4-CfB {
+  margin-right: 2.5rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1.25rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section4-PHB .auto-group-m1op-Gth .list-9Bo .item-7-Fjw .community-tH7 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .oranges-pAm {
+  width: 75.3142rem;
+  height: 89.7889rem;
+  position: absolute;
+  left: 96.5rem;
+  top: 18.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-4uuw-fc5 .box2-9iq {
+  box-sizing: border-box;
+  padding: 3.4rem 6.1rem;
+  width: 78rem;
+  height: 23.9rem;
+  position: absolute;
+  left: 32.2rem;
+  top: 0;
+  overflow: hidden;
+  box-shadow: 0.4rem 0.4rem 0.7rem rgba(190, 234, 194, 0.5), -0.4rem -0.4rem 0.7rem rgba(190, 234, 194, 0.5);
+  background-color: #f1fff4;
+  border-radius: 2rem;
+}
+.landing-HgM .auto-group-4uuw-fc5 .box2-9iq .text-Um7 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-HgM .auto-group-4uuw-fc5 .box2-9iq .text-Um7 .auto-group-emjw-F1B {
+  margin-right: 4rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .box2-9iq .text-Um7 .auto-group-emjw-F1B .dont-know-whats-the-right-meal-plan-or-the-diet-for-you-PNH {
+  margin-bottom: 3.2rem;
+  max-width: 52.7rem;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .box2-9iq .text-Um7 .auto-group-emjw-F1B .signin-Ued {
+  width: 26.4rem;
+  height: 6.3rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.2rem 0.3rem 0.6rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #beeac2 40.02%, rgba(190, 234, 194, 0.5) 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .box2-9iq .text-Um7 .ques-mark-i3B {
+  margin-top: 0.6rem;
+  width: 9.1rem;
+  height: 14.2963rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .rectangle-24-9eH {
+  width: 147.5rem;
+  height: 188.5rem;
+  position: absolute;
+  left: 0;
+  top: 89.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-4uuw-fc5 .rectangle-25-HkV {
+  width: 154.8rem;
+  height: 185.5rem;
+  position: absolute;
+  left: 0;
+  top: 95.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K {
+  width: 255.2153rem;
+  height: 60rem;
+  position: absolute;
+  left: 0;
+  top: 108rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP {
+  margin: 0rem 117.015rem 10rem 47.5rem;
+  width: calc(100% - 164.5153rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .diet-products-hZK {
+  margin: 0rem 0.1rem 5rem 0rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .diet-products-hZK .diet-products-hZK-sub-0 {
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .diet-products-hZK .diet-products-hZK-sub-1 {
+  font-size: 6rem;
+  font-weight: 600;
+  line-height: 0.9166666667;
+  letter-spacing: -0.12rem;
+  color: #db2f38;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .healthybite-making-it-easy-for-you-to-get-your-diet-product-supply-from-the-same-platform-as-well-yfF {
+  margin-bottom: 3.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .points-g3s {
+  width: 54.2rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .points-g3s .item-1-2dX {
+  margin: 0rem 25.3rem 2.5rem 0rem;
+  width: calc(100% - 25.3rem);
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .points-g3s .item-1-2dX .tttick-Mvh {
+  margin-right: 1.5rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .points-g3s .item-1-2dX .search-from-a-wide-range-hzZ {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .points-g3s .item-2-Ejb {
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .points-g3s .item-2-Ejb .tttick-o21 {
+  margin-right: 1.5rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .text-AZP .text-DRB .points-g3s .item-2-Ejb .get-the-best-one-recommended-from-the-nutritionist-95s {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM {
+  width: 100%;
+  height: 25.4rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf {
+  margin: 1.6rem 7.3rem 1.6rem 0rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  height: calc(100% - 3.2rem);
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .auto-group-2fh3-ujF {
+  box-sizing: border-box;
+  padding: 1.5rem 2.8rem 1.5rem 3.5rem;
+  width: 35.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .auto-group-2fh3-ujF .content-SDP {
+  margin: 2rem 3.5rem 2rem 0rem;
+  width: 25.3rem;
+  height: calc(100% - 4rem);
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .auto-group-2fh3-ujF .content-SDP .text-xBj {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .auto-group-2fh3-ujF .content-SDP .text-xBj .whey-protein-bodybuilding-supplement-nutrition-hv1 {
+  margin-bottom: 1.5rem;
+  max-width: 25.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .auto-group-2fh3-ujF .content-SDP .text-xBj .net-wt-17kg-cn5 {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .auto-group-2fh3-ujF .content-SDP .stars-MDs {
+  width: 15.221rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .auto-group-2fh3-ujF .line-2-Vqs {
+  width: 0.1rem;
+  height: 19.2rem;
+  background-color: #e0e0e0;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-1-bTf .rectangle-27-SFK {
+  width: 21rem;
+  height: 22.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0 2rem 2rem 0;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF {
+  box-sizing: border-box;
+  padding-right: 0.1144rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.6rem 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2.2883rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .auto-group-og6m-FiZ {
+  box-sizing: border-box;
+  padding: 1.716rem 3.204rem 1.716rem 4.005rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .auto-group-og6m-FiZ .content-y8m {
+  margin: 2.288rem 3.951rem 2.227rem 0rem;
+  width: 29rem;
+  height: calc(100% - 4.5153rem);
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .auto-group-og6m-FiZ .content-y8m .text-gos {
+  margin-bottom: 3.4324rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .auto-group-og6m-FiZ .content-y8m .text-gos .whey-protein-bodybuilding-supplement-nutrition-So3 {
+  margin-bottom: 1.7162rem;
+  max-width: 29rem;
+  font-size: 2.2883rem;
+  font-weight: 400;
+  line-height: 1.3499999708;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .auto-group-og6m-FiZ .content-y8m .text-gos .net-wt-17kg-xWV {
+  font-size: 2.0595rem;
+  font-weight: 400;
+  line-height: 1.3888888529;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .auto-group-og6m-FiZ .content-y8m .stars-hU5 {
+  width: 17.415rem;
+  height: 3.2036rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .auto-group-og6m-FiZ .line-2-TCM {
+  width: 0.1144rem;
+  height: 21.9676rem;
+  background-color: #e0e0e0;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .item-2-7sF .rectangle-27-zi5 {
+  width: 24.027rem;
+  height: 25.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0 2.2883rem 2.2883rem 0;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 {
+  box-sizing: border-box;
+  padding: 1.6rem 0rem 1.6rem 7.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf {
+  margin-right: 7.3rem;
+  box-sizing: border-box;
+  padding-right: 0.1rem;
+  width: 56.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf .auto-group-nuzz-YND {
+  box-sizing: border-box;
+  padding: 3.5rem 6.4rem 3.5rem 3.5rem;
+  width: 35.2rem;
+  height: 100%;
+  border-right: solid 0.1rem #e0e0e0;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf .auto-group-nuzz-YND .content-5N9 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf .auto-group-nuzz-YND .content-5N9 .text-345 {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf .auto-group-nuzz-YND .content-5N9 .text-345 .whey-protein-bodybuilding-supplement-nutrition-CBs {
+  margin-bottom: 1.5rem;
+  max-width: 25.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf .auto-group-nuzz-YND .content-5N9 .text-345 .net-wt-17kg-iAD {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf .auto-group-nuzz-YND .content-5N9 .stars-FA9 {
+  width: 15.221rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-3-cDf .rectangle-27-A2D {
+  width: 21rem;
+  height: 22.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0 2rem 2rem 0;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-4-dAh {
+  width: 56.3rem;
+  height: 100%;
+  position: relative;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+  border-left: solid 0.1rem #e0e0e0;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-4-dAh .rectangle-27-a5w {
+  width: 21rem;
+  height: 22.2rem;
+  position: absolute;
+  left: 35.2rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 0 2rem 2rem 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-4-dAh .content-tsK {
+  width: 45.4rem;
+  height: 15.2rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 3.5rem;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-4-dAh .content-tsK .text-da1 {
+  margin-bottom: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-4-dAh .content-tsK .text-da1 .whey-protein-bodybuilding-supplement-nutrition-ytm {
+  margin-bottom: 4.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-4-dAh .content-tsK .text-da1 .net-wt-17kg-uXX {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section5-q1K .product-list-TcM .auto-group-m2a5-Ut9 .item-4-dAh .content-tsK .stars-SXT {
+  width: 15.221rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-4uuw-fc5 .rectangle-28-WnD {
+  width: 134rem;
+  height: 0.4rem;
+  position: absolute;
+  left: 4.9rem;
+  top: 183rem;
+  background: radial-gradient(50% 50% at 50% 50%, #32794e 0%, rgba(50, 121, 78, 0) 100%);
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq {
+  width: 136.2rem;
+  height: 69.3rem;
+  position: absolute;
+  left: 0;
+  top: 198.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .heading-wcd {
+  margin-right: 63.1rem;
+  width: 73.1rem;
+  height: 18.8rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .heading-wcd .rectangle-29-5yj {
+  width: 54rem;
+  height: 18.8rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #32794e;
+  border-radius: 2rem;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .heading-wcd .heading-Rnh {
+  width: 48.4rem;
+  height: 12.9rem;
+  position: absolute;
+  left: 22.5rem;
+  top: 2.9rem;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .heading-wcd .heading-Rnh .get-the-best-xnd {
+  margin-bottom: 3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .heading-wcd .heading-Rnh .nutritionist-6dw {
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 0.7857142857;
+  letter-spacing: 0.14rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .heading-wcd .heading-Rnh .nutritionist-6dw .nutritionist-6dw-sub-0 {
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 0.7857142857;
+  letter-spacing: 0.14rem;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .heading-wcd .heading-Rnh .nutritionist-6dw .nutritionist-6dw-sub-1 {
+  font-size: 7rem;
+  font-weight: 700;
+  line-height: 0.7857142857;
+  letter-spacing: 0.14rem;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb {
+  margin: 0rem 0rem 2.4rem 12.2rem;
+  width: calc(100% - 12.2rem);
+  height: 47.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K {
+  margin: 5.5rem 5.9rem 2.6rem 0rem;
+  height: calc(100% - 8.1rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .our-team-of-expert-nutritionists-is-here-to-help-you-achieve-your-health-and-wellness-goals-our-nutritionists-are-highly-trained-and-qualified-professionals-with-a-deep-understanding-of-the-science-behind-nutrition-and-how-it-can-impact-your-body-and-mind-46u {
+  margin-bottom: 5rem;
+  max-width: 63.8rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV {
+  width: 62.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu {
+  box-sizing: border-box;
+  padding-bottom: 2rem;
+  width: 100%;
+  row-gap: 2rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-1-xLh {
+  margin-right: 11.9rem;
+  width: calc(100% - 11.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-1-xLh .ellipse-4-J9f {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-1-xLh .registered-dietitian-with-the-academy-of-nutrition-and-dietetics-n4q {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-2-6LR {
+  margin-right: 34.3rem;
+  width: calc(100% - 34.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-2-6LR .ellipse-4-qoo {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-2-6LR .years-of-experience-in-the-field-6jj {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-3-DJZ {
+  margin-right: 5rem;
+  width: calc(100% - 5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-3-DJZ .ellipse-4-ZNR {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-3-DJZ .specialize-in-weight-management-chronic-disease-prevention-and-sports-nutrition-3oP {
+  max-width: 54.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-4-wtm {
+  margin-right: 26.3rem;
+  width: calc(100% - 26.3rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-4-wtm .ellipse-4-VfP {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-4-wtm .skilled-in-developing-recipes-and-meal-plans-NjB {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-5-uDK {
+  margin-right: 15.8rem;
+  width: calc(100% - 15.8rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-5-uDK .ellipse-4-Sj3 {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .auto-group-ku7s-Dtu .item-5-uDK .passionate-about-helping-people-live-healthy-fulfilling-lives-jCM {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .item-6-3iq {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .item-6-3iq .ellipse-4-QZP {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  box-shadow: 0 0.1rem 0.5rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #db2f38 -0%, #d26d66 44.06%, #c7b198 71.15%, #beeac2 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .text-K9K .points-fcV .item-6-3iq .committed-to-staying-up-to-date-with-the-latest-research-and-trends-in-nutrition-Vaq {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.25;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .auto-group-gfw7-bNy {
+  width: 54.3rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .auto-group-gfw7-bNy .circles-LrM {
+  width: 54.3rem;
+  height: 47.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .auto-group-rvtj-CKb .auto-group-gfw7-bNy .rectangle-30-Gzu {
+  width: 48.3rem;
+  height: 39rem;
+  position: absolute;
+  left: 4.2rem;
+  top: 6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 2rem;
+}
+.landing-HgM .auto-group-4uuw-fc5 .section6-DAq .more-results-dots-nTT {
+  margin-left: 88.9rem;
+  width: 4.6rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 {
+  margin: 0rem 4.2rem 10.009rem 4.2rem;
+  width: calc(100% - 8.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .heading-text-DYm {
+  margin: 0rem 19.1rem 5rem 19rem;
+  width: calc(100% - 38.1rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .heading-text-DYm .the-fresh-new-food-stories-Y5F {
+  margin-bottom: 1.5rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .heading-text-DYm .the-fresh-new-food-stories-Y5F .the-fresh-new-food-stories-Y5F-sub-0 {
+}
+.landing-HgM .section7-6U9 .heading-text-DYm .the-fresh-new-food-stories-Y5F .the-fresh-new-food-stories-Y5F-sub-1 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #db2f38;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section7-6U9 .heading-text-DYm .the-fresh-new-food-stories-Y5F .the-fresh-new-food-stories-Y5F-sub-2 {
+}
+.landing-HgM .section7-6U9 .heading-text-DYm .the-fresh-new-food-stories-Y5F .the-fresh-new-food-stories-Y5F-sub-3 {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #db2f38;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section7-6U9 .heading-text-DYm .with-the-recipes-created-and-put-to-the-test-by-our-in-house-team-of-professional-chefs-and-nutritionists-we-can-promise-you-that-healthy-eating-is-delicious-BXX {
+  max-width: 97.5rem;
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq {
+  width: 100%;
+  height: 48.0912rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .item--nnD {
+  margin: 0rem 0.298rem 6.791rem 0rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.9166666667;
+  color: #000000;
+  font-family: Odibee Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq {
+  margin-right: 0.2999rem;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 {
+  margin-right: 10.9974rem;
+  width: 34.0023rem;
+  height: 41.5rem;
+  position: relative;
+  box-shadow: -0.2rem 0.4rem 0.6rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .rectangle-12-bjf {
+  width: 34rem;
+  height: 26.3rem;
+  position: absolute;
+  left: 0.0021rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 1rem 0 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm {
+  width: 34.0023rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 0;
+  top: 26.2rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .rectangle-13-TWy {
+  width: 34rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 0.0021rem;
+  top: 0;
+  background-color: #f5f5f5;
+  border-radius: 0 0 1rem 1rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .text-BSy {
+  width: 28.8rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0.6021rem;
+  top: 1rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .text-BSy .diet-fitness-v9f {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .text-BSy .get-all-the-protein-you-need-on-a-plant-based-diet-FBw {
+  max-width: 28.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .line-1-NGZ {
+  width: 34.0023rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 10.9625rem;
+  background-color: #e0e0e0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .read-more-hpd {
+  width: 10.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 1.0021rem;
+  top: 12.1rem;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .read-more-hpd .read-more-diH {
+  margin-right: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .text-box-KQm .read-more-hpd .arrow-1-Zrq {
+  width: 1.7rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-1-rn5 .date-Wn5 {
+  width: 7.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 25.2021rem;
+  top: 22.9rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db2f38;
+  border-radius: 1rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 {
+  margin-right: 10.9977rem;
+  width: 39.4026rem;
+  height: 100%;
+  position: relative;
+  box-shadow: -0.2318rem 0.4635rem 0.6953rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .rectangle-12-tnd {
+  width: 39.4rem;
+  height: 30.4771rem;
+  position: absolute;
+  left: 0.0025rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1.1588rem 1.1588rem 0 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww {
+  width: 39.4026rem;
+  height: 17.73rem;
+  position: absolute;
+  left: 0;
+  top: 30.3612rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .rectangle-13-vzD {
+  width: 39.4rem;
+  height: 17.73rem;
+  position: absolute;
+  left: 0.0025rem;
+  top: 0;
+  background-color: #f5f5f5;
+  border-radius: 0 0 1.1588rem 1.1588rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .text-fB7 {
+  width: 33.3rem;
+  height: 9.4588rem;
+  position: absolute;
+  left: 0.6978rem;
+  top: 1.1588rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .text-fB7 .diet-fitness-Bv9 {
+  margin-bottom: 1.1588rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2.3176rem;
+  font-weight: 700;
+  line-height: 1.3499999918;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .text-fB7 .get-all-the-protein-you-need-on-a-plant-based-diet-v73 {
+  max-width: 33.3rem;
+  font-size: 1.8541rem;
+  font-weight: 400;
+  line-height: 1.3750000129;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .line-1-2A5 {
+  width: 39.4026rem;
+  height: 0.1159rem;
+  position: absolute;
+  left: 0;
+  top: 12.7036rem;
+  background-color: #e0e0e0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .read-more-Zfo {
+  width: 12.6288rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 1.1613rem;
+  top: 14.0218rem;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .read-more-Zfo .read-more-uDs {
+  margin-right: 1.1588rem;
+  font-size: 1.8541rem;
+  font-weight: 400;
+  line-height: 1.3750000129;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .text-box-bww .read-more-Zfo .arrow-1-Sjb {
+  margin-bottom: 0rem;
+  width: 1.97rem;
+  height: 0.1159rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-2-9q3 .date-b6h {
+  width: 8.4765rem;
+  height: 2.7635rem;
+  position: absolute;
+  left: 29.2048rem;
+  top: 26.5371rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.6224rem;
+  font-weight: 400;
+  line-height: 1.3571429243;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db2f38;
+  border-radius: 1.1588rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX {
+  width: 34.0023rem;
+  height: 41.5rem;
+  position: relative;
+  box-shadow: -0.2rem 0.4rem 0.6rem rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .rectangle-12-NFs {
+  width: 34rem;
+  height: 26.3rem;
+  position: absolute;
+  left: 0.0022rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem 1rem 0 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F {
+  width: 34.0023rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 0;
+  top: 26.2rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .rectangle-13-dhb {
+  width: 34rem;
+  height: 15.3rem;
+  position: absolute;
+  left: 0.0022rem;
+  top: 0;
+  background-color: #f5f5f5;
+  border-radius: 0 0 1rem 1rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .text-xzm {
+  width: 28.8rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 0.6022rem;
+  top: 1rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .text-xzm .diet-fitness-uQD {
+  margin-bottom: 1rem;
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.35;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .text-xzm .get-all-the-protein-you-need-on-a-plant-based-diet-ESV {
+  max-width: 28.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .line-1-Kiq {
+  width: 34.0023rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 10.9625rem;
+  background-color: #e0e0e0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .read-more-qSH {
+  width: 10.9rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 1.0022rem;
+  top: 12.1rem;
+  display: flex;
+  align-items: center;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .read-more-qSH .read-more-MfX {
+  margin-right: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .text-box-h3F .read-more-qSH .arrow-1-hUV {
+  width: 1.7rem;
+  height: 0.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .list-urq .item-3-RbX .date-e8q {
+  width: 7.3rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 25.2022rem;
+  top: 22.9rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #db2f38;
+  border-radius: 1rem;
+}
+.landing-HgM .section7-6U9 .pics-3Jq .item--fpd {
+  margin-bottom: 6.7912rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.9166666667;
+  color: #000000;
+  font-family: Odibee Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB {
+  box-sizing: border-box;
+  padding: 5rem 10rem;
+  width: 100%;
+  height: 39.5rem;
+  overflow: hidden;
+  position: relative;
+  background-color: #ddf7e3;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ {
+  box-sizing: border-box;
+  padding: 0rem 29.5rem 6rem 28.5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 {
+  margin-bottom: 5.2rem;
+  max-width: 66rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-0 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-1 {
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-2 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-3 {
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-4 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-5 {
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-6 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-7 {
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-8 {
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-9 {
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5 .invest-in-yourself-and-boost-your-health-body-and-confidence-Ci5-sub-10 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .box3-BHB .text-inu .auto-group-ctcq-5NZ .signin-Z6h {
+  margin: 0rem 18.4rem 0rem 23.3rem;
+  width: calc(100% - 41.7rem);
+  height: 6.3rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.2rem 0.3rem 0.6rem rgba(0, 0, 0, 0.25);
+  background: linear-gradient(180deg, #32794e -0%, rgba(50, 121, 78, 0.6856161952) 36.59%, rgba(50, 121, 78, 0.5) 100%);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith {
+  width: 100%;
+  height: 2.7rem;
+  display: flex;
+  column-gap: 16.75rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-1-rzu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-1-rzu .tttick-2Pb {
+  margin-right: 1rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-1-rzu .quick-account-creation-ZPX {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-2-5cm {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-2-5cm .tttick-FGM {
+  margin-right: 1rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-2-5cm .no-commitment-cancel-at-any-time-zUq {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-3-uLu {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-3-uLu .tttick-GSM {
+  margin-right: 1rem;
+  width: 3.5rem;
+  height: 2.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .box3-BHB .text-inu .list-ith .item-3-uLu .join-over-45-million-other-users-DMb {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 {
+  margin-bottom: 7.5rem;
+  box-sizing: border-box;
+  padding: 6rem 10.4rem 5rem 10rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: rgba(241, 255, 244, 0.6000000238);
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .heading-F3P {
+  margin: 0rem 81.3rem 3.9rem 0rem;
+  width: 42.3rem;
+  height: 13.7rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .heading-F3P .results-yEH {
+  width: 42.3rem;
+  height: 13.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 10rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #f5f5f5;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .section8-Xt5 .heading-F3P .healthybite-reviews-VTX {
+  width: 32.2rem;
+  height: 4.4rem;
+  position: absolute;
+  left: 5rem;
+  top: 4.6rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landing-HgM .section8-Xt5 .review-zv5 {
+  margin: 0rem 0rem 5rem 0.4rem;
+  width: 123.2rem;
+  height: 40.2rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm {
+  box-sizing: border-box;
+  padding: 4rem 9.3rem 4rem 9.1rem;
+  width: 78.6rem;
+  height: 40.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: -0.4rem 0.4rem 0.7rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem 0 0 2rem;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm .text-TYm {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm .text-TYm .text-cwT {
+  margin-bottom: 5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm .text-TYm .text-cwT .kgs-in-3-weeks-adP {
+  margin: 0rem 0rem 2.5rem 0.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm .text-TYm .text-cwT .this-platform-is-like-the-best-thing-that-has-happened-to-my-health-i-was-shocked-how-my-cravings-were-gone-after-only-a-couple-of-days-and-not-wanting-to-eat-between-meals-really-helped-losing-6-kg-in-only-3-weeks-is-fantastic-but-the-best-part-is-the-health-improvement-hT7 {
+  max-width: 60.2rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm .text-TYm .name-KUV {
+  margin: 0rem 15.4rem 0rem 15rem;
+  width: calc(100% - 30.4rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm .text-TYm .name-KUV .anshuman-khuranna-rUR {
+  margin-bottom: 0.5rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .text-boox-jcm .text-TYm .name-KUV .week-weight-loss-meal-plan-avD {
+  margin-right: 1.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .review-zv5 .rectangle-17-FmT {
+  width: 45.4rem;
+  height: 40.2rem;
+  position: absolute;
+  left: 77.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0 2rem 2rem 0;
+}
+.landing-HgM .section8-Xt5 .more-results-dots-mE1 {
+  margin: 0rem 56.8rem 0rem 57.8rem;
+  width: calc(100% - 114.6rem);
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .more-results-dots-mE1 .ellipse-5-Uu7 {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: #ddf7e3;
+  border-radius: 0.75rem;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .more-results-dots-mE1 .ellipse-6-2Qq {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: #32794e;
+  border-radius: 0.75rem;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .more-results-dots-mE1 .ellipse-7-ZvZ {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: #ddf7e3;
+  border-radius: 0.75rem;
+  flex-shrink: 0;
+}
+.landing-HgM .section8-Xt5 .more-results-dots-mE1 .ellipse-8-ujX {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: #ddf7e3;
+  border-radius: 0.75rem;
+  flex-shrink: 0;
+}
+.landing-HgM .a-whole-year-of-healthybite-costs-about-the-same-as-1-hour-with-a-nutrition-expert-Rxm {
+  margin: 0rem 5.3rem 7.3rem 0rem;
+  max-width: 68.7rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landing-HgM .a-whole-year-of-healthybite-costs-about-the-same-as-1-hour-with-a-nutrition-expert-Rxm .a-whole-year-of-healthybite-costs-about-the-same-as-1-hour-with-a-nutrition-expert-Rxm-sub-0 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .a-whole-year-of-healthybite-costs-about-the-same-as-1-hour-with-a-nutrition-expert-Rxm .a-whole-year-of-healthybite-costs-about-the-same-as-1-hour-with-a-nutrition-expert-Rxm-sub-1 {
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #db2f38;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .a-whole-year-of-healthybite-costs-about-the-same-as-1-hour-with-a-nutrition-expert-Rxm .a-whole-year-of-healthybite-costs-about-the-same-as-1-hour-with-a-nutrition-expert-Rxm-sub-2 {
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.landing-HgM .footer-9fo {
+  margin-left: 0.3rem;
+  box-sizing: border-box;
+  padding: 4.088rem 10rem 2rem 10rem;
+  width: calc(100% - 0.3rem);
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #beeac2;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .group-1-ecZ {
+  margin: 0rem 46.076rem 6rem 52.334rem;
+  width: calc(100% - 98.4105rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .group-1-ecZ .healthybite-nTs {
+  margin-right: 0.6921rem;
+  font-size: 3.4272rem;
+  font-weight: 400;
+  line-height: 1.1718750139;
+  letter-spacing: 0.1371rem;
+  color: #32794e;
+  font-family: Ananda Black Personal Use, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .group-1-ecZ .healthybite-nTs .healthybite-nTs-sub-0 {
+  font-size: 3.4272rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.1371rem;
+  color: #32794e;
+  font-family: Amita, 'Source Sans Pro';
+}
+.landing-HgM .footer-9fo .group-1-ecZ .healthybite-nTs .healthybite-nTs-sub-1 {
+  font-size: 3.4272rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.3427rem;
+  color: #32794e;
+  font-family: Amita, 'Source Sans Pro';
+}
+.landing-HgM .footer-9fo .group-1-ecZ .healthybite-nTs .healthybite-nTs-sub-2 {
+  font-size: 3.4272rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  letter-spacing: 0.1371rem;
+  color: #32794e;
+  font-family: Amita, 'Source Sans Pro';
+}
+.landing-HgM .footer-9fo .group-1-ecZ .group-xQH {
+  margin-top: 1.0118rem;
+  width: 6.3974rem;
+  height: 5.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K {
+  margin: 0rem 2.8rem 3rem 2.7rem;
+  width: calc(100% - 5.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K .about-us-QGH {
+  margin-right: 11.8667rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K .features-XLu {
+  margin-right: 11.9667rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K .blogs-TkM {
+  margin-right: 11.8667rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K .food-oZK {
+  margin-right: 11.8667rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K .recipes-wQd {
+  margin-right: 11.8667rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K .reviews-HDb {
+  margin-right: 11.8667rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-2-V9K .sign-in-Ws3 {
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-3-rg1 {
+  margin: 0rem 18.3rem 4rem 18.3rem;
+  width: calc(100% - 36.6rem);
+  display: flex;
+  column-gap: 10.25rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-3-rg1 .terms-conditions-mny {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-3-rg1 .privacy-policy-A4R {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-3-rg1 .contact-tWD {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-3-rg1 .cookie-policy-Ea5 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .frame-3-rg1 .support-NRP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .rectangle-19-K5j {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  height: 0.4rem;
+  background: radial-gradient(50% 50% at 50% 50%, #32794e 0%, rgba(50, 121, 78, 0) 100%);
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss {
+  margin: 0rem 36.145rem 7.238rem 36.045rem;
+  width: calc(100% - 72.1905rem);
+  height: 5.2619rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-1-uZj {
+  margin-right: 4.0476rem;
+  box-sizing: border-box;
+  padding: 0.648rem 0.648rem 0.567rem 0.567rem;
+  height: 100%;
+  box-shadow: 0 0.3238rem 0.3238rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 2.631rem;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-1-uZj .vector-2eM {
+  width: 4.0476rem;
+  height: 4.0476rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-2-Lf3 {
+  margin-right: 4.0476rem;
+  box-sizing: border-box;
+  padding: 0.81rem 0.81rem 0.81rem 0.81rem;
+  height: 100%;
+  box-shadow: 0 0.3238rem 0.3238rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 2.631rem;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-2-Lf3 .vector-Tjf {
+  width: 3.6429rem;
+  height: 3.6429rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-3-Nrd {
+  margin-right: 4.0476rem;
+  box-sizing: border-box;
+  padding: 1.214rem 0.729rem 1.214rem 0.648rem;
+  height: 100%;
+  box-shadow: 0 0.3238rem 0.3238rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 2.631rem;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-3-Nrd .vector-htu {
+  width: 3.8857rem;
+  height: 2.8333rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-4-DcM {
+  margin-right: 4.0476rem;
+  box-sizing: border-box;
+  padding: 0.405rem 0.405rem 0.405rem 0.405rem;
+  height: 100%;
+  box-shadow: 0 0.3238rem 0.3238rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 2.631rem;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-4-DcM .icons8-pinterest-1-x49 {
+  width: 4.4524rem;
+  height: 4.4524rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-5-47B {
+  margin-right: 4.0476rem;
+  box-sizing: border-box;
+  padding: 1.457rem 0.81rem 1.376rem 0.81rem;
+  height: 100%;
+  box-shadow: 0 0.3238rem 0.3238rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 2.631rem;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-5-47B .vector-BxV {
+  width: 3.6429rem;
+  height: 2.4286rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-6-JGR {
+  box-sizing: border-box;
+  padding: 1.5rem 0.855rem 1.562rem 0.807rem;
+  height: 100%;
+  box-shadow: 0 0.3238rem 0.3238rem rgba(0, 0, 0, 0.25);
+  background-color: #f1fff4;
+  border-radius: 2.631rem;
+  flex-shrink: 0;
+}
+.landing-HgM .footer-9fo .social-media-Qss .item-6-JGR .group-qGM {
+  width: 3.6rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landing-HgM .footer-9fo .cornea-clinic-pvt-ltd-all-rights-reserved-8mF {
+  margin-right: 13.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #424242;
+  font-family: Lato, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+

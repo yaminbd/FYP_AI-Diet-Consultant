@@ -1,0 +1,91 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 14.6rem;
+}.login-button-t41 {
+  box-sizing: border-box;
+  padding: 2rem 4rem 2rem 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.login-button-t41 .property-1default-Qo3 {
+  margin-bottom: 1.9rem;
+  width: 100%;
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.8063rem;
+  flex-shrink: 0;
+}
+.login-button-t41 .property-1hover-U2D {
+  margin-bottom: 2.8rem;
+  width: 100%;
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.0806rem #32794e;
+  box-sizing: border-box;
+  box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.8063rem;
+  flex-shrink: 0;
+}
+.login-button-t41 .property-1onclick-iBT {
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.0806rem #32794e;
+  box-sizing: border-box;
+  box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #beeac2;
+  border-radius: 0.8063rem;
+  flex-shrink: 0;
+}

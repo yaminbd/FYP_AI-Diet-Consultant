@@ -1,0 +1,187 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.choose-plan-ebs {
+  width: 100%;
+  height: 96rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.choose-plan-ebs .rectangle-33-PZT {
+  width: 88.1rem;
+  height: 96rem;
+  position: absolute;
+  left: 97.2rem;
+  top: 7.6rem;
+  background: linear-gradient(270.17deg, #ffffff 2.26%, rgba(255, 255, 255, 0) 21.05%);
+  background-size: 178.099% 100.017%;
+  background-position: -0rem -0.0081rem;
+  background-image: url('../assets/rectangle-33-bg-rND.png');
+}
+.choose-plan-ebs .rectangle-33-PZT .rectangle-33-PZT-bg {
+  width: 88.1rem;
+  height: 96rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:e625a317942964d48c1d7ee5e86a6725500a7f27');
+}
+.choose-plan-ebs .rectangle-20-RW9 {
+  width: 172.4rem;
+  height: 52.35rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.choose-plan-ebs .rectangle-21-ZsF {
+  width: 208.25rem;
+  height: 46.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.choose-plan-ebs .nav-text-items-XJH {
+  width: 48.8857rem;
+  height: 5.0096rem;
+  position: absolute;
+  left: 4.5143rem;
+  top: 2.5904rem;
+  display: flex;
+  align-items: flex-end;
+}
+.choose-plan-ebs .nav-text-items-XJH .group-1-TSq {
+  margin: 0rem 6.5rem 0.425rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.choose-plan-ebs .nav-text-items-XJH .group-1-TSq .healthybite-oWh {
+  margin-right: 4.2394rem;
+  font-size: 2.4892rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  letter-spacing: 0.0996rem;
+  color: #32794e;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.choose-plan-ebs .nav-text-items-XJH .group-1-TSq .group-v5X {
+  margin-top: 0.7349rem;
+  width: 4.6465rem;
+  height: 3.8494rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.choose-plan-ebs .nav-text-items-XJH .features-enD {
+  margin-right: 6.5rem;
+  width: 10.2rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.choose-plan-ebs .nav-text-items-XJH .blogs-k4Z {
+  width: 7.1rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.choose-plan-ebs .frame-47-Tjf {
+  width: 58.1rem;
+  height: 12.5rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 11.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.choose-plan-ebs .frame-47-Tjf .optimize-your-health-wth-ai-yxu {
+  margin-bottom: 1.5rem;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.choose-plan-ebs .frame-47-Tjf .recommendation-Hih {
+  margin-right: 1rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.choose-plan-ebs .https-lottiefilescom-33886-check-okey-done-R4D {
+  width: 20rem;
+  height: 20rem;
+  position: absolute;
+  left: 34.7rem;
+  top: 20.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.choose-plan-ebs .breakfast-creative-kickstart-avocado-toast-with-a-twist-whole-grain-toast-topped-with-mashed-avocado-sprinkle-with-sesame-seeds-a-dash-of-lemon-juice-and-a-pinch-of-red-pepper-flakes-for-flavor-fruit-salad-a-colorful-mix-of-seasonal-fruits-for-a-refreshing-start-coffee-or-green-tea-a-caffeinated-kick-to-fuel-creativity-vmf {
+  width: 87.2rem;
+  height: 21.6rem;
+  position: absolute;
+  left: 10.2rem;
+  top: 27rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.choose-plan-ebs .lunch-productive-plate-quinoa-bowl-with-veggies-quinoa-as-the-base-topped-with-roasted-vegetables-eg-sweet-potatoes-broccoli-and-bell-peppers-add-a-protein-source-like-grilled-chicken-or-tofu-greek-yogurt-sauce-a-light-dressing-with-greek-yogurt-lemon-and-herbs-to-enhance-flavors-side-of-hummus-and-whole-grain-pita-healthy-fats-and-fiber-for-sustained-energy-7LM {
+  width: 68.5rem;
+  height: 24.3rem;
+  position: absolute;
+  left: 10.3rem;
+  top: 54.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}

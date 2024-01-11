@@ -1,0 +1,459 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 114rem;
+}.d-product-list-PSq {
+  box-sizing: border-box;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  padding: 3.2rem 2rem 3.1rem 2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+
+  .property-1default-ug5 {
+    box-sizing: border-box;
+    height: 6rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    border-radius: 1rem;
+    margin-bottom: 5.9rem;
+    width: 100%;
+    border: solid 0.1rem rgba(221, 247, 227, 0.8000000119);
+    box-shadow: inset 0.1rem -0.1rem 0.4rem rgba(221, 247, 227, 0.6000000238)), 0 0.1rem 0.5rem rgba(221, 247, 227, 0.6000000238);
+    background-color: #ffffff;
+    flex-shrink: 0;
+    padding: 1.7rem 2rem 1.8rem 2rem;
+
+    .sft1-pHF {
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 5.3rem 0rem 0rem;
+    }
+    .name-Kzh {
+      margin-right: 15rem;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .ellipse-56-tH7 {
+        border-radius: 1.25rem;
+        flex-shrink: 0;
+        margin-right: 1rem;
+        width: 2.5rem;
+        height: 2.5rem;
+        border: solid 0.1rem #beeac2;
+        box-sizing: border-box;
+        background-color: #f1fff4;
+      }
+      .product-name-QWM {
+        line-height: 1.375;
+        color: #000000;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 400;
+      }
+    }
+    .item-9000-wWH {
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 9.9rem 0rem 0rem;
+    }
+    .item-10-02-2021-Fms {
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 6rem 0rem 0rem;
+      font-size: 1.6rem;
+    }
+    .frame-99-n17 {
+      margin: 0.2rem 6.284rem 0.1rem 0rem;
+      height: calc(100% - 0.3rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .item-32-ubX {
+        margin-right: 0.5rem;
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+        color: #198754;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+      }
+      .group-22-SbT {
+        margin-top: 0rem;
+        width: 1.8162rem;
+        height: 1.4378rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+    .frame-98-ybP {
+      position: relative;
+      font-weight: 400;
+      justify-content: center;
+      border: solid 0.1rem #d0342c;
+      box-sizing: border-box;
+      width: 12rem;
+      height: 100%;
+      font-size: 1.4rem;
+      display: flex;
+      background-color: rgba(219, 47, 56, 0.3000000119);
+      flex-shrink: 0;
+      margin-right: 6.2rem;
+      line-height: 1.3571428571;
+      color: #d0342c;
+      white-space: nowrap;
+      align-items: center;
+      overflow: hidden;
+      font-family: Open Sans, 'Source Sans Pro';
+      border-radius: 1.5rem;
+    }
+    .frame-96-35T {
+      margin: 0.4rem 0rem 0.3rem 0rem;
+      height: calc(100% - 0.7rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .group-xy7 {
+        height: 1.8rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 2rem;
+        width: 1.8rem;
+      }
+      .delete-icon-WDw {
+        width: 1.5rem;
+        height: 1.8rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+  .property-1variant4-A3b {
+    padding: 1.7rem 2rem 1.8rem 2rem;
+    width: 100%;
+    cursor: pointer;
+    display: flex;
+    border: solid 0.1rem #ddf7e3;
+    flex-shrink: 0;
+    margin-bottom: 5.4rem;
+    box-sizing: border-box;
+    box-shadow: inset 0.2rem -0.2rem 0.6rem #ddf7e3), 0.1rem 0.1rem 0.6rem #ddf7e3;
+    background-color: #f1fff4;
+    border-radius: 1rem;
+    height: 6rem;
+    align-items: center;
+
+    .sft1-3dB {
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 5.3rem 0rem 0rem;
+      font-size: 1.6rem;
+      font-weight: 400;
+    }
+    .name-mZB {
+      margin-right: 15rem;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .ellipse-56-7sw {
+        border: solid 0.1rem #beeac2;
+        box-sizing: border-box;
+        background-color: #f1fff4;
+        border-radius: 1.25rem;
+        flex-shrink: 0;
+        margin-right: 1rem;
+        width: 2.5rem;
+        height: 2.5rem;
+      }
+      .product-name-FDT {
+        font-weight: 400;
+        line-height: 1.375;
+        color: #000000;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+      }
+    }
+    .item-9000-amX {
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 9.9rem 0rem 0rem;
+      font-size: 1.6rem;
+    }
+    .item-10-02-2021-hr9 {
+      flex-shrink: 0;
+      margin: 0.1rem 6rem 0rem 0rem;
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+    }
+    .frame-99-SHw {
+      flex-shrink: 0;
+      margin: 0.2rem 6.284rem 0.1rem 0rem;
+      height: calc(100% - 0.3rem);
+      display: flex;
+      align-items: center;
+
+      .item-32-BFX {
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+        color: #198754;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 0.5rem;
+      }
+      .group-22-vD7 {
+        flex-shrink: 0;
+        margin-top: 0rem;
+        width: 1.8162rem;
+        height: 1.4378rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+      }
+    }
+    .frame-98-G25 {
+      width: 12rem;
+      font-size: 1.4rem;
+      overflow: hidden;
+      color: #d0342c;
+      font-family: Open Sans, 'Source Sans Pro';
+      border: solid 0.1rem #d0342c;
+      flex-shrink: 0;
+      height: 100%;
+      position: relative;
+      box-sizing: border-box;
+      border-radius: 1.5rem;
+      margin-right: 6.2rem;
+      font-weight: 400;
+      line-height: 1.3571428571;
+      white-space: nowrap;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: rgba(219, 47, 56, 0.3000000119);
+    }
+    .frame-96-LGq {
+      height: calc(100% - 0.7rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+      margin: 0.4rem 0rem 0.3rem 0rem;
+
+      .group-fa1 {
+        margin-right: 2rem;
+        width: 1.8rem;
+        height: 1.8rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+      .delete-icon-oAR {
+        vertical-align: top;
+        flex-shrink: 0;
+        width: 1.5rem;
+        height: 1.8rem;
+        object-fit: contain;
+      }
+    }
+  }
+  .property-1variant5-U1f {
+    height: 6rem;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 1.7rem 2rem 1.8rem 2rem;
+    width: 100%;
+    background-color: rgba(221, 247, 227, 0.6999999881);
+    border-radius: 1rem;
+    flex-shrink: 0;
+    display: flex;
+    border: solid 0.1rem rgba(221, 247, 227, 0.8000000119);
+    box-shadow: inset 0.1rem -0.1rem 0.4rem rgba(221, 247, 227, 0.6000000238)), 0 0.1rem 0.5rem rgba(221, 247, 227, 0.6000000238);
+
+    .sft1-zEu {
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 5.3rem 0rem 0rem;
+    }
+    .name-7qK {
+      margin-right: 15rem;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .ellipse-56-5XF {
+        flex-shrink: 0;
+        margin-right: 1rem;
+        width: 2.5rem;
+        height: 2.5rem;
+        border: solid 0.1rem #beeac2;
+        box-sizing: border-box;
+        background-color: #f1fff4;
+        border-radius: 1.25rem;
+      }
+      .product-name-zeD {
+        line-height: 1.375;
+        color: #000000;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 400;
+      }
+    }
+    .item-9000-Y9w {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 9.9rem 0rem 0rem;
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+    }
+    .item-10-02-2021-fVT {
+      white-space: nowrap;
+      flex-shrink: 0;
+      margin: 0.1rem 6rem 0rem 0rem;
+      font-size: 1.6rem;
+      font-weight: 400;
+      line-height: 1.375;
+      color: #000000;
+      font-family: Open Sans, 'Source Sans Pro';
+    }
+    .frame-99-PgM {
+      margin: 0.2rem 6.284rem 0.1rem 0rem;
+      height: calc(100% - 0.3rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .item-32-Y3T {
+        font-weight: 400;
+        line-height: 1.375;
+        color: #198754;
+        font-family: Open Sans, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 0.5rem;
+        font-size: 1.6rem;
+      }
+      .group-22-HWq {
+        width: 1.8162rem;
+        height: 1.4378rem;
+        position: relative;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-top: 0rem;
+      }
+    }
+    .frame-98-DvH {
+      align-items: center;
+      border: solid 0.1rem #d0342c;
+      border-radius: 1.5rem;
+      margin-right: 6.2rem;
+      height: 100%;
+      position: relative;
+      white-space: nowrap;
+      display: flex;
+      box-sizing: border-box;
+      width: 12rem;
+      font-size: 1.4rem;
+      font-weight: 400;
+      color: #d0342c;
+      font-family: Open Sans, 'Source Sans Pro';
+      justify-content: center;
+      background-color: rgba(219, 47, 56, 0.3000000119);
+      overflow: hidden;
+      flex-shrink: 0;
+      line-height: 1.3571428571;
+    }
+    .frame-96-JRw {
+      margin: 0.4rem 0rem 0.3rem 0rem;
+      height: calc(100% - 0.7rem);
+      display: flex;
+      align-items: center;
+      flex-shrink: 0;
+
+      .group-So3 {
+        vertical-align: top;
+        flex-shrink: 0;
+        margin-right: 2rem;
+        width: 1.8rem;
+        height: 1.8rem;
+        object-fit: contain;
+      }
+      .delete-icon-PiH {
+        width: 1.5rem;
+        height: 1.8rem;
+        object-fit: contain;
+        vertical-align: top;
+        flex-shrink: 0;
+      }
+    }
+  }
+}

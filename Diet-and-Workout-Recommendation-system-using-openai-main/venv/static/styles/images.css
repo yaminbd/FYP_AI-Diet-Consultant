@@ -1,0 +1,98 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 771.3rem;
+}.images-ng9 {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  column-gap: 10rem;
+  align-items: flex-start;
+  border: dashed 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.images-ng9 .property-1pngwing-3-X7w {
+  margin-bottom: 1.3rem;
+  flex-shrink: 0;
+}
+.images-ng9 .property-1pngwing-3-X7w .pngwing-3-UYy {
+  width: 102.4rem;
+  height: 101.1rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.images-ng9 .property-1pngwing-4-pMw {
+  height: 102.4rem;
+  flex-shrink: 0;
+}
+.images-ng9 .property-1pngwing-4-pMw .pngwing-4-ykd {
+  width: 71.8rem;
+  height: 102.4rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.images-ng9 .property-1pngwing-8-vfs {
+  margin-bottom: 10.8rem;
+  flex-shrink: 0;
+}
+.images-ng9 .property-1pngwing-8-vfs .pngwing-8-5of {
+  width: 144.6rem;
+  height: 91.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.images-ng9 .property-1imgbindiet-food-alcoholic-drink-superfood-flavor-png-1-ERf {
+  margin-bottom: 63.6rem;
+  flex-shrink: 0;
+}
+.images-ng9 .property-1imgbindiet-food-alcoholic-drink-superfood-flavor-png-1-ERf .imgbindiet-food-alcoholic-drink-superfood-flavor-png-1-mAh {
+  width: 97rem;
+  height: 38.8rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.images-ng9 .property-1pngwing-5-Heq {
+  margin-bottom: 51.2rem;
+  flex-shrink: 0;
+}
+.images-ng9 .property-1pngwing-5-Heq .pngwing-5-FLm {
+  width: 65.8rem;
+  height: 51.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.images-ng9 .property-1imgbinfood-group-diet-food-plastic-png-1-oNH {
+  margin-bottom: 53.2rem;
+  flex-shrink: 0;
+}
+.images-ng9 .property-1imgbinfood-group-diet-food-plastic-png-1-oNH .imgbinfood-group-diet-food-plastic-png-1-wzH {
+  width: 135.7rem;
+  height: 49.2rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.images-ng9 .property-1pngwing-1-fvH {
+  margin-bottom: 47.1rem;
+  flex-shrink: 0;
+}
+.images-ng9 .property-1pngwing-1-fvH .pngwing-1-qZs {
+  width: 90rem;
+  height: 55.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}

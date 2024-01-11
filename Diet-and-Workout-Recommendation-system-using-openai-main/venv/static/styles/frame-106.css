@@ -1,0 +1,261 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 30.1rem;
+}.frame-106-sh3 {
+  width: 100%;
+  height: 104.3086rem;
+  position: relative;
+}
+.frame-106-sh3 .rectangle-40-EGh {
+  width: 26rem;
+  height: 103.2rem;
+  position: absolute;
+  left: 4.1rem;
+  top: 1.1086rem;
+  border: solid 0.1rem #ddf7e3;
+  box-sizing: border-box;
+  box-shadow: inset -0.2rem 0.1rem 0.2rem #ddf7e3), 0.3rem 0.3rem 0.6rem rgba(190, 234, 194, 0.5);
+  background-color: #ffffff;
+}
+.frame-106-sh3 .frame-105-pEu {
+  width: 28.9rem;
+  height: 16.5281rem;
+  position: absolute;
+  left: 0rem;
+  top: 0;
+}
+.frame-106-sh3 .frame-105-pEu .group-ZTP {
+  opacity: 0.2;
+  width: 21.6rem;
+  height: 16.5281rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.frame-106-sh3 .frame-105-pEu .healthybite-6iD {
+  width: 17.2rem;
+  height: 3.8rem;
+  position: absolute;
+  left: 11.7rem;
+  top: 4.2086rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.12rem;
+  color: #32794e;
+  font-family: Ananda Black Personal Use, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.frame-106-sh3 .frame-105-pEu .healthybite-6iD .healthybite-6iD-sub-0 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.12rem;
+  color: #32794e;
+  font-family: Amita, 'Source Sans Pro';
+}
+.frame-106-sh3 .frame-105-pEu .healthybite-6iD .healthybite-6iD-sub-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.3rem;
+  color: #32794e;
+  font-family: Amita, 'Source Sans Pro';
+}
+.frame-106-sh3 .frame-105-pEu .healthybite-6iD .healthybite-6iD-sub-2 {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.2575;
+  letter-spacing: 0.12rem;
+  color: #32794e;
+  font-family: Amita, 'Source Sans Pro';
+}
+.frame-106-sh3 .d-sidemenu-kJu {
+  width: 24rem;
+  height: 34.5rem;
+  position: absolute;
+  left: 5.1rem;
+  top: 24.1086rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.frame-106-sh3 .d-sidemenu-kJu .dashboard-TUD {
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem 2rem 1.5rem;
+  width: 100%;
+  height: 5.7rem;
+  cursor: pointer;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .dashboard-TUD .frame-49-Psf {
+  width: 11.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-106-sh3 .d-sidemenu-kJu .dashboard-TUD .frame-49-Psf .distributor-menu-icons-kTK {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .dashboard-TUD .frame-49-Psf .dashboard-grm {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .products-pTB {
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem 2rem 1.5rem;
+  width: 100%;
+  height: 5.7rem;
+  box-shadow: inset -0.1rem -0.2rem 0.4rem rgba(190, 234, 194, 0.8000000119)), 0 0.2rem 0.5rem #ddf7e3;
+  background-color: #f1fff4;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .products-pTB .frame-49-x3b {
+  width: 10.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-106-sh3 .d-sidemenu-kJu .products-pTB .frame-49-x3b .distributor-menu-icons-uDj {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .products-pTB .frame-49-x3b .dashboard-dQd {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .sales-WDX {
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem 2rem 1.5rem;
+  width: 100%;
+  height: 5.7rem;
+  cursor: pointer;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .sales-WDX .frame-49-EvD {
+  width: 6.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-106-sh3 .d-sidemenu-kJu .sales-WDX .frame-49-EvD .distributor-menu-icons-Cc9 {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .sales-WDX .frame-49-EvD .dashboard-9XP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .profile-tE5 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem 2rem 1.5rem;
+  width: 100%;
+  height: 5.7rem;
+  cursor: pointer;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .profile-tE5 .frame-49-pNd {
+  width: 7.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-106-sh3 .d-sidemenu-kJu .profile-tE5 .frame-49-pNd .distributor-menu-icons-mof {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .profile-tE5 .frame-49-pNd .dashboard-K4V {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .add-qoX {
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem 2rem 1.5rem;
+  width: 100%;
+  height: 5.7rem;
+  cursor: pointer;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .add-qoX .frame-49-b21 {
+  width: 13.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.frame-106-sh3 .d-sidemenu-kJu .add-qoX .frame-49-b21 .distributor-menu-icons-kQh {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.frame-106-sh3 .d-sidemenu-kJu .add-qoX .frame-49-b21 .dashboard-5xm {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

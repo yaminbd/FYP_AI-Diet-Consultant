@@ -1,0 +1,135 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128.6rem;
+}.navigation-bar-z5F {
+  box-sizing: border-box;
+  padding-left: 1.1142rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.navigation-bar-z5F .nav-text-items-vUh {
+  margin-right: 54.8rem;
+  height: 5.0096rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .nav-text-items-vUh .group-1-s93 {
+  margin: 0rem 6.5rem 0.425rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .nav-text-items-vUh .group-1-s93 .healthybite-Cx1 {
+  margin-right: 4.2394rem;
+  font-size: 2.4892rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  letter-spacing: 0.0996rem;
+  color: #32794e;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .nav-text-items-vUh .group-1-s93 .group-KWq {
+  margin-top: 0.7349rem;
+  width: 4.6465rem;
+  height: 3.8494rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .nav-text-items-vUh .features-T7F {
+  margin-right: 6.5rem;
+  width: 10.2rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .nav-text-items-vUh .blogs-wo7 {
+  width: 7.1rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .buttons-rv5 {
+  margin-bottom: 0.2rem;
+  height: 4.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .buttons-rv5 .login-button-DEq {
+  margin-right: 5rem;
+  width: 8.6rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.8063rem;
+  flex-shrink: 0;
+}
+.navigation-bar-z5F .buttons-rv5 .signin-button-t65 {
+  width: 10.2rem;
+  height: 100%;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #424242;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.0806rem #32794e;
+  box-sizing: border-box;
+  box-shadow: -0.2rem 0.2rem 0.4rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.8063rem;
+  flex-shrink: 0;
+}

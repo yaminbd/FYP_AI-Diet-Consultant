@@ -1,0 +1,2084 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.d-product-filters-r5o {
+  width: 100%;
+  height: 137.3rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #f5f5f5;
+}
+.d-product-filters-r5o .group-1-kS5 {
+  width: 18.5859rem;
+  height: 4.5843rem;
+  position: absolute;
+  left: 4.5141rem;
+  top: 1.2651rem;
+  display: flex;
+  align-items: flex-start;
+}
+.d-product-filters-r5o .group-1-kS5 .healthybite-GQR {
+  margin-right: 4.2395rem;
+  font-size: 2.4892rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  letter-spacing: 0.0996rem;
+  color: #32794e;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .group-1-kS5 .group-mry {
+  margin-top: 0.7349rem;
+  width: 4.6465rem;
+  height: 3.8494rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj {
+  width: 25rem;
+  height: 27rem;
+  position: absolute;
+  left: 1rem;
+  top: 10.9rem;
+  row-gap: 1.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.d-product-filters-r5o .frame-167-hVj .component-5-PtM {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #32794e;
+  box-shadow: 0.1rem 0.1rem 0.6rem #9e9e9e;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-5-PtM .frame-49-XzZ {
+  width: 11.8rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-167-hVj .component-5-PtM .frame-49-XzZ .distributor-menu-icons-HTw {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-5-PtM .frame-49-XzZ .dashboard-pTs {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-1-J89 {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-1-J89 .frame-49-SVF {
+  width: 9.7rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-167-hVj .component-1-J89 .frame-49-SVF .distributor-menu-icons-np1 {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-1-J89 .frame-49-SVF .dashboard-jDT {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-2-QaV {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-2-QaV .frame-49-kPT {
+  width: 6.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-167-hVj .component-2-QaV .frame-49-kPT .distributor-menu-icons-6y7 {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-2-QaV .frame-49-kPT .dashboard-qfo {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-3-9Ah {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-3-9Ah .frame-49-Hnh {
+  width: 7.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-167-hVj .component-3-9Ah .frame-49-Hnh .distributor-menu-icons-3ms {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-3-9Ah .frame-49-Hnh .dashboard-bHb {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-4-hrR {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem;
+  width: 100%;
+  height: 4.2rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0.1rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-4-hrR .frame-49-rUR {
+  width: 12.3rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-167-hVj .component-4-hrR .frame-49-rUR .distributor-menu-icons-pAM {
+  margin-right: 1rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-167-hVj .component-4-hrR .frame-49-rUR .dashboard-Mvy {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #252525;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .product-analysis-fwf {
+  width: 14.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 30rem;
+  top: 4rem;
+  font-size: 1.8rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.d-product-filters-r5o .frame-168-N5P {
+  box-sizing: border-box;
+  padding: 1.5rem 47.4rem 1.5rem 2.5rem;
+  width: 58.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 30rem;
+  top: 9.5rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  box-shadow: inset -0.2rem -0.5rem 0.6rem rgba(50, 121, 78, 0.5)), 0 0.2rem 0.6rem #9e9e9e;
+  background-color: #ffffff;
+  border-radius: 3rem;
+}
+.d-product-filters-r5o .frame-168-N5P .search-icon-fKP {
+  margin-right: 1rem;
+  width: 2.2rem;
+  height: 2.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-168-N5P .search-ogV {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-169-4sK {
+  width: 8.2rem;
+  height: 5.2rem;
+  cursor: pointer;
+  position: absolute;
+  left: 91.1rem;
+  top: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 3rem;
+}
+.d-product-filters-r5o .frame-178-aqf {
+  width: 16.1rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 100.4rem;
+  top: 9.5rem;
+  overflow: hidden;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #32794e;
+  box-sizing: border-box;
+  box-shadow: inset -0.2rem -0.5rem 0.6rem rgba(50, 121, 78, 0.5)), 0 0.2rem 0.6rem #9e9e9e;
+  background-color: #ffffff;
+  border-radius: 3rem;
+}
+.d-product-filters-r5o .frame-178-aqf .frame-178-aqf-sub-0 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.d-product-filters-r5o .frame-178-aqf .frame-178-aqf-sub-1 {
+}
+.d-product-filters-r5o .frame-214-CEm {
+  width: 112rem;
+  height: 118.2rem;
+  position: absolute;
+  left: 30rem;
+  top: 17.1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  height: 3.4rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh .rectangle-131-tNV {
+  width: 112rem;
+  height: 0.2rem;
+  position: absolute;
+  left: 0;
+  top: 3.2rem;
+  background: radial-gradient(50% 50% at 50% 50%, #beeac2 0%, #d9eabe 100%);
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh .frame-212-zAd {
+  width: 61.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh .frame-212-zAd .frame-174-va5 {
+  margin-right: 2.5rem;
+  width: 22.8rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh .frame-212-zAd .frame-175-1bX {
+  width: 10.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh .frame-212-zAd .auto-group-zz85-tYq {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 0.6rem 3.5rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh .frame-212-zAd .auto-group-zz85-tYq .out-of-stock-RHs {
+  margin-right: 4.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-213-jEh .frame-212-zAd .auto-group-zz85-tYq .in-demand-Z9B {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP {
+  box-sizing: border-box;
+  padding: 5rem 0.7rem 5rem 1rem;
+  width: 100%;
+  height: 112.3rem;
+  border: solid 0.1rem #32794e;
+  box-shadow: inset -0.2rem -0.5rem 0.6rem rgba(50, 121, 78, 0.5)), inset 0.2rem 0.4rem 0.3rem rgba(50, 121, 78, 0.5)), 0 0.2rem 0.6rem #9e9e9e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq {
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu {
+  margin-bottom: 2rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-190-Z2h {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.6rem 13.6rem 1.5rem 1rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: inset 0 -0.1rem 0.4rem #e0e0e0), 0 0.2rem 0.4rem #e0e0e0;
+  background-color: #f5f5f5;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-190-Z2h .ellipse-57-5Fw {
+  margin-right: 1.6rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-190-Z2h .product-details-d2Z {
+  margin-right: 28.4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-190-Z2h .price-kss {
+  margin-right: 7.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-190-Z2h .published-on-uEy {
+  margin-right: 4rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-190-Z2h .progress-3ry {
+  margin-right: 9.8rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-190-Z2h .recommended-n3s {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP {
+  margin: 0 0.4rem;
+  width: calc(100% - 0.8rem);
+  row-gap: 1rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .ellipse-57-xFB {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-186-gBB {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-186-gBB .ellipse-56-c4q {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-186-gBB .frame-185-XSh {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-186-gBB .frame-185-XSh .product-name-5UD {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-186-gBB .frame-185-XSh .sft1-QWV {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .item-9000-jof {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .item-10-02-2021-45F {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-188-aZP {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-188-aZP .frame-99-LHf {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-188-aZP .frame-99-LHf .item-32-T7P {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-188-aZP .frame-99-LHf .group-22-nfT {
+  margin-top: 0rem;
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-188-aZP .frame-98-j4u {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .dr-xyz-PfF {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-6-tFK .frame-96-7r9 {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .ellipse-57-YRf {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-186-5Ah {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-186-5Ah .ellipse-56-osP {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-186-5Ah .frame-185-k1w {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-186-5Ah .frame-185-k1w .product-name-hSy {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-186-5Ah .frame-185-k1w .sft1-e7K {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .item-9000-mxd {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .item-10-02-2021-tXT {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-188-pAD {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-188-pAD .frame-99-ZtV {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-188-pAD .frame-99-ZtV .item-32-JbB {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-188-pAD .frame-99-ZtV .group-22-FFX {
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-188-pAD .frame-98-nFT {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .dr-xyz-Fuj {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-7-Rrq .frame-96-BYV {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .ellipse-57-oZs {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-186-97w {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-186-97w .ellipse-56-Uvu {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-186-97w .frame-185-c1X {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-186-97w .frame-185-c1X .product-name-ZSZ {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-186-97w .frame-185-c1X .sft1-hYm {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .item-9000-3Mj {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .item-10-02-2021-mHj {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-188-J2m {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-188-J2m .frame-99-3FF {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-188-J2m .frame-99-3FF .item-32-mww {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-188-J2m .frame-99-3FF .group-22-v49 {
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-188-J2m .frame-98-TJy {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .dr-xyz-Y5X {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-8-JND .frame-96-sNh {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .ellipse-57-HhK {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-186-Day {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-186-Day .ellipse-56-Z93 {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-186-Day .frame-185-gUZ {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-186-Day .frame-185-gUZ .product-name-RS9 {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-186-Day .frame-185-gUZ .sft1-ZHT {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .item-9000-6YH {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .item-10-02-2021-Qos {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-188-8zm {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-188-8zm .frame-99-6Au {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-188-8zm .frame-99-6Au .item-32-dgd {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-188-8zm .frame-99-6Au .group-22-BCM {
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-188-8zm .frame-98-KpM {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .dr-xyz-bms {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-9-aY1 .frame-96-vp9 {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .ellipse-57-Z6R {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-186-5aZ {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-186-5aZ .ellipse-56-1j7 {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-186-5aZ .frame-185-jv1 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-186-5aZ .frame-185-jv1 .product-name-hrq {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-186-5aZ .frame-185-jv1 .sft1-SpR {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .item-9000-bBX {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .item-10-02-2021-K7X {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-188-qrZ {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-188-qrZ .frame-99-baq {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-188-qrZ .frame-99-baq .item-32-L2d {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-188-qrZ .frame-99-baq .group-22-fqb {
+  margin-top: 0rem;
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-188-qrZ .frame-98-cF3 {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .dr-xyz-6g1 {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-10-385 .frame-96-qNh {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .ellipse-57-r2u {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-186-ajb {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-186-ajb .ellipse-56-X93 {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-186-ajb .frame-185-rSD {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-186-ajb .frame-185-rSD .product-name-DXf {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-186-ajb .frame-185-rSD .sft1-ZLd {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .item-9000-tth {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .item-10-02-2021-d5b {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-188-Lkh {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-188-Lkh .frame-99-Hvq {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-188-Lkh .frame-99-Hvq .item-32-qSZ {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-188-Lkh .frame-99-Hvq .group-22-a9F {
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-188-Lkh .frame-98-imF {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .dr-xyz-ba9 {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-11-XmK .frame-96-6mo {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .ellipse-57-eB3 {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-186-AfB {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-186-AfB .ellipse-56-JWV {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-186-AfB .frame-185-pzd {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-186-AfB .frame-185-pzd .product-name-PH3 {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-186-AfB .frame-185-pzd .sft1-vXs {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .item-9000-48H {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .item-10-02-2021-moP {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-188-uPo {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-188-uPo .frame-99-rZw {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-188-uPo .frame-99-rZw .item-32-bXX {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-188-uPo .frame-99-rZw .group-22-8nM {
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-188-uPo .frame-98-gJ5 {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .dr-xyz-MQD {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-12-msw .frame-96-66u {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .ellipse-57-7Gu {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-186-e1w {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-186-e1w .ellipse-56-ya1 {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-186-e1w .frame-185-WK3 {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-186-e1w .frame-185-WK3 .product-name-sQV {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-186-e1w .frame-185-WK3 .sft1-ccy {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .item-9000-kz5 {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .item-10-02-2021-62M {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-188-1QD {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-188-1QD .frame-99-ZRj {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-188-1QD .frame-99-ZRj .item-32-hnq {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-188-1QD .frame-99-ZRj .group-22-FJZ {
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-188-1QD .frame-98-bdK {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .dr-xyz-HFF {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-13-oGD .frame-96-Qqf {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .ellipse-57-3Nq {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-186-yXP {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-186-yXP .ellipse-56-JpZ {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-186-yXP .frame-185-qJh {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-186-yXP .frame-185-qJh .product-name-Q6u {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-186-yXP .frame-185-qJh .sft1-kAm {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .item-9000-HRb {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .item-10-02-2021-oPw {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-188-8BK {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-188-8BK .frame-99-UW5 {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-188-8BK .frame-99-UW5 .item-32-RAR {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-188-8BK .frame-99-UW5 .group-22-MZs {
+  margin-bottom: 0rem;
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-188-8BK .frame-98-6XT {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .dr-xyz-PFf {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-14-Kxd .frame-96-vFb {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 {
+  box-sizing: border-box;
+  padding: 1.2rem 1rem 1.1rem 0.6rem;
+  width: 100%;
+  height: 8rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #32794e;
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .ellipse-57-LaD {
+  margin: 0rem 1.4rem 0.1rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-186-4m7 {
+  margin: 0.3rem 23rem 0.3rem 0rem;
+  height: calc(100% - 0.6rem);
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-186-4m7 .ellipse-56-oih {
+  margin-right: 1.5rem;
+  width: 5rem;
+  height: 5rem;
+  border: solid 0.1rem #beeac2;
+  box-sizing: border-box;
+  background-color: #f1fff4;
+  border-radius: 2.5rem;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-186-4m7 .frame-185-w4D {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-186-4m7 .frame-185-w4D .product-name-VbX {
+  margin-bottom: 1rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-186-4m7 .frame-185-w4D .sft1-qQV {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .item-9000-BDT {
+  margin: 0rem 5.3rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .item-10-02-2021-u9T {
+  margin: 0rem 5.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-188-RtV {
+  margin-right: 4.4rem;
+  width: 12rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-188-RtV .frame-99-P4d {
+  margin: 0rem 6.484rem 1rem 0rem;
+  width: calc(100% - 6.4838rem);
+  display: flex;
+  align-items: center;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-188-RtV .frame-99-P4d .item-32-isb {
+  margin-right: 0.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-188-RtV .frame-99-P4d .group-22-4gZ {
+  margin-bottom: 0rem;
+  width: 1.8162rem;
+  height: 1.4378rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-188-RtV .frame-98-yYd {
+  width: 100%;
+  height: 2.5rem;
+  overflow: hidden;
+  position: relative;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #198754;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: solid 0.1rem #198754;
+  box-sizing: border-box;
+  background-color: rgba(25, 135, 84, 0.3000000119);
+  border-radius: 1.5rem;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .dr-xyz-44H {
+  margin: 0rem 13.4rem 0.1rem 0rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.375;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .frame-209-Ptu .frame-189-CdP .component-15-dA1 .frame-96-mzH {
+  margin-bottom: 0.1rem;
+  width: 4.8rem;
+  height: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .paginations-sXX {
+  margin: 0 48.55rem;
+  width: calc(100% - 97.1rem);
+  height: 4rem;
+  display: flex;
+  column-gap: 0.6rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .paginations-sXX .frame-101-zMF {
+  width: 4rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-57-rk1.png');
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .paginations-sXX .frame-102-VJ1 {
+  width: 4rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.d-product-filters-r5o .frame-214-CEm .frame-211-hFP .frame-210-deq .paginations-sXX .frame-103-1GM {
+  width: 4rem;
+  height: 100%;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #757575;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}

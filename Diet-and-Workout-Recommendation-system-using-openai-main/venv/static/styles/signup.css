@@ -1,0 +1,459 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.signup-Mnq {
+  width: 100%;
+  height: 96rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.signup-Mnq .rectangle-33-i7b {
+  width: 88.1rem;
+  height: 96rem;
+  position: absolute;
+  left: 73.9rem;
+  top: 0;
+  background: linear-gradient(270.17deg, #ffffff 2.26%, rgba(255, 255, 255, 0) 21.05%);
+  background-size: 178.099% 100.017%;
+  background-position: -0rem -0.0081rem;
+  background-image: url('../assets/rectangle-33-bg-xe5.png');
+}
+.signup-Mnq .rectangle-33-i7b .rectangle-33-i7b-bg {
+  width: 88.1rem;
+  height: 96rem;
+  position: relative;
+  background-image: url('REPLACE_IMAGE:e625a317942964d48c1d7ee5e86a6725500a7f27');
+}
+.signup-Mnq .rectangle-20-9ih {
+  width: 172.4rem;
+  height: 52.35rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.signup-Mnq .rectangle-21-6P3 {
+  width: 208.25rem;
+  height: 46.3rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.signup-Mnq .nav-text-items-SSu {
+  width: 48.8858rem;
+  height: 5.0096rem;
+  position: absolute;
+  left: 4.5142rem;
+  top: 2.5904rem;
+  display: flex;
+  align-items: flex-end;
+}
+.signup-Mnq .nav-text-items-SSu .group-1-NLZ {
+  margin: 0rem 6.5rem 0.425rem 0rem;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.signup-Mnq .nav-text-items-SSu .group-1-NLZ .healthybite-WSm {
+  margin-right: 4.2393rem;
+  font-size: 2.4892rem;
+  font-weight: 400;
+  line-height: 1.3475;
+  letter-spacing: 0.0996rem;
+  color: #32794e;
+  font-family: Abril Fatface, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .nav-text-items-SSu .group-1-NLZ .group-E7s {
+  margin-top: 0.7349rem;
+  width: 4.6465rem;
+  height: 3.8494rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-Mnq .nav-text-items-SSu .features-A1X {
+  margin-right: 6.5rem;
+  width: 10.2rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.signup-Mnq .nav-text-items-SSu .blogs-EXB {
+  width: 7.1rem;
+  height: 4.7rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f {
+  width: 43.9rem;
+  height: 69.3rem;
+  position: absolute;
+  left: 15rem;
+  top: 15rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.signup-Mnq .frame-22-Z3f .sign-up-gPB {
+  margin-bottom: 5rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy {
+  width: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .name-ZC5 {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .name-ZC5 .email-X8u {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .name-ZC5 .box-fW1 {
+  box-sizing: border-box;
+  padding: 1.3rem 1.6rem 1.3rem 1.5rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .name-ZC5 .box-fW1 .text-oMK {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .name-ZC5 .box-fW1 .text-oMK .abc-Mtd {
+  margin: 0rem 36.2rem 0rem 0rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #e0e0e0;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .name-ZC5 .box-fW1 .text-oMK .group-2-t7s {
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .mobile-amP {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .mobile-amP .mobile-no-LkZ {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .mobile-amP .box-Ubs {
+  box-sizing: border-box;
+  padding: 1.3rem 1.6rem 1.3rem 1.5rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .mobile-amP .box-Ubs .text-1rh {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .mobile-amP .box-Ubs .text-1rh .item-999-BWH {
+  margin-right: 31.1rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #e0e0e0;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .mobile-amP .box-Ubs .text-1rh .group-3-ux5 {
+  width: 1.9rem;
+  height: 1.9rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .email-button-pZF {
+  width: 100%;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .email-button-pZF .email-N4y {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .email-button-pZF .box-72Z {
+  box-sizing: border-box;
+  padding: 1.3rem 1.5rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .email-button-pZF .box-72Z .text-rF3 {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-end;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .email-button-pZF .box-72Z .text-rF3 .abcgmailcom-DbP {
+  margin-right: 28rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #e0e0e0;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .email-button-pZF .box-72Z .text-rF3 .group-MSh {
+  width: 2.6rem;
+  height: 1.5889rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .passwordbutton-ewb {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .passwordbutton-ewb .password-pLH {
+  margin-bottom: 0.5rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .passwordbutton-ewb .box-9dT {
+  box-sizing: border-box;
+  padding: 0rem 1.4rem 0rem 1.5rem;
+  width: 100%;
+  height: 4.5rem;
+  overflow: hidden;
+  position: relative;
+  border: solid 0.1rem #e0e0e0;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .passwordbutton-ewb .box-9dT .text-VhK {
+  width: 100%;
+  height: 3.8rem;
+  display: flex;
+  align-items: flex-end;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .passwordbutton-ewb .box-9dT .text-VhK .item--4Ed {
+  margin-right: 28rem;
+  font-size: 2.8rem;
+  font-weight: 700;
+  line-height: 1.3571428571;
+  color: #e0e0e0;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .name-details-Qpy .passwordbutton-ewb .box-9dT .text-VhK .password-icon-z8H {
+  margin-bottom: 0.1839rem;
+  width: 2.6rem;
+  height: 1.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ {
+  box-sizing: border-box;
+  padding: 5rem 0.05rem 0rem 0.05rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM {
+  margin-bottom: 5rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP {
+  margin-bottom: 0.5rem;
+  max-width: 39.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #000000;
+  font-family: Open Sans, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP-sub-0 {
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP-sub-2 {
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP-sub-3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.3571428571;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP .by-signing-up-you-agree-with-the-privacy-policy-and-terms-of-healthybite-aMP-sub-4 {
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .frame-21-cvM .start-button-gSM {
+  width: 100%;
+  height: 4.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #ffffff;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #32794e;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .text-Npy {
+  margin: 0 7.35rem;
+  width: calc(100% - 14.7rem);
+  height: 2.7rem;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .text-Npy .already-have-an-account-upu {
+  margin-right: 1.1rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.3888888889;
+  color: #616161;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.signup-Mnq .frame-22-Z3f .auto-group-kakr-tUZ .text-Npy .sigin-qCm {
+  width: 6.7rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.35;
+  color: #32794e;
+  font-family: Open Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
