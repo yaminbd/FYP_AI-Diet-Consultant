@@ -33,9 +33,15 @@ prompt_template_resto = PromptTemplate(
              
 )
 
+
 @app.route('/')
 def landing_page():
     return render_template('landing.html')
+
+
+@app.route('/sign_up')
+def sign_up():
+    return render_template('signup.html')
 
 
 @app.route('/diet_reccomendation')
