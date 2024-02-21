@@ -1,16 +1,13 @@
+
 from flask import Flask, render_template, request
 import os
 from langchain.prompts import PromptTemplate
 from langchain.llms import OpenAI
 from langchain.chains import LLMChain
 import re
-
 import os
 import re
-os.environ['OPENAI_API_KEY'] = '' # your openai key
-
-
-
+os.environ['OPENAI_API_KEY'] = '' # openai key
 
 
 app = Flask(__name__)
@@ -48,6 +45,11 @@ def sign_up():
 def index():
     return render_template('index.html')
 
+@app.route('/diet')
+def diet():
+    return render_template('diet.html')
+
+
 
 @app.route('/recommend', methods=['POST'])
 def recommend():
@@ -80,15 +82,13 @@ def recommend():
         dinner_names = re.findall(r'Dinner:(.*?)Workouts:', results, re.DOTALL)
         workout_names = re.findall(r'Workouts:(.*?)$', results, re.DOTALL)
 
-        # Cleaning up the extracted lists
-        restaurant_names = [name.strip() for name in restaurant_names[0].strip().split('\n') if name.strip()]
-        breakfast_names = [name.strip() for name in breakfast_names[0].strip().split('\n') if name.strip()]
-        dinner_names = [name.strip() for name in dinner_names[0].strip().split('\n') if name.strip()]
-        workout_names = [name.strip() for name in workout_names[0].strip().split('\n') if name.strip()]
-
+     # Cleaning up the extracted lists
+        restaurant_names = [name.strip() for name in restaurant_names[0].strip().split('\n')] if restaurant_names else []
+        breakfast_names = [name.strip() for name in breakfast_names[0].strip().split('\n')] if breakfast_names else []
+        dinner_names = [name.strip() for name in dinner_names[0].strip().split('\n')] if dinner_names else []
+        workout_names = [name.strip() for name in workout_names[0].strip().split('\n')] if workout_names else []
         return render_template('result.html', restaurant_names=restaurant_names,breakfast_names=breakfast_names,dinner_names=dinner_names,workout_names=workout_names)
     return render_template('index.html')
-
 
 
 

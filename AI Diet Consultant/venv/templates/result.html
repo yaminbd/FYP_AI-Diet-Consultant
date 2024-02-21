@@ -1,41 +1,78 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Diet and Workouts Recommendations</title>
     <!-- Add Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Add custom CSS -->
+    <style>
+        body {
+            background-color:rgba(134, 234, 143, 0.5); /* Light gray background */
+        }
+        .container {
+            background-color: #ffffff; /* White background for content */
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Shadow effect */
+        }
+        h1 {
+            color: #343a40; /* Dark gray for headings */
+            text-align: center;
+            margin-top: 30px;
+        }
+        h3 {
+            color: #007bff; /* Blue for section headings */
+            margin-top: 20px;
+        }
+        p {
+            color: #6c757d; /* Gray for text */
+            margin-bottom: 5px;
+        }
+    </style>
 </head>
-<body >
-        <h1>Diet and Workouts Recommendations</h1>
-
+<body>
     <div class="container mt-5">
-        <h3>Restaurants:</h3>
-        {% for i in restaurant_names %}
-        <p>
-            {{i}}
-        </p>
-        {% endfor %}
+        <h1>Recommendation Result</h1>
 
-        <h3>BreakFast</h3>
-        {% for i in breakfast_names %}
-        <p>
-            {{i}}
-        </p>
-        {% endfor %}
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Restaurants:</h3>
+                {% for i in restaurant_names %}
+                <p>{{i}}</p>
+                {% endfor %}
+            </div>
+            <div class="col-md-6">
+                <h3>Breakfast</h3>
+                {% for i in breakfast_names %}
+                <p>{{i}}</p>
+                {% endfor %}
+            </div>
+            <div class="col-md-6">
+                <h3>Lunch</h3>
+                {% for i in lunch_names %}
+                <p>{{i}}</p>
+                {% endfor %}
+            </div>
 
-        <h3>Dinners</h3>
-        {% for i in dinner_names %}
-        <p>
-            {{i}}
-        </p>
-        {% endfor %}
 
-        <h3>Workouts Planes</h3>
-        {% for i in workout_names %}
-        <p>
-            {{i}}
-        </p>
-        {% endfor %}
+        </div>
+
+        <div class="row">
+            <div class="col-md-6">
+                <h3>Dinners</h3>
+                {% for i in dinner_names %}
+                <p>{{i}}</p>
+                {% endfor %}
+            </div>
+            <div class="col-md-6">
+                <h3>Workouts Plans</h3>
+                {% for i in workout_names %}
+                <p>{{i}}</p>
+                {% endfor %}
+            </div>
+        </div>
     </div>
 
     <!-- Add Bootstrap JS and jQuery -->
