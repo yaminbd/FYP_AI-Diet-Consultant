@@ -1,16 +1,13 @@
+
 from flask import Flask, render_template, request
 import os
 from langchain.prompts import PromptTemplate
 from langchain.llms import OpenAI
 from langchain.chains import LLMChain
 import re
-
 import os
 import re
-os.environ['OPENAI_API_KEY'] = '' # your openai key
-
-
-
+os.environ['OPENAI_API_KEY'] = '' # openai key
 
 
 app = Flask(__name__)
@@ -47,6 +44,10 @@ def sign_up():
 @app.route('/diet_reccomendation')
 def index():
     return render_template('index.html')
+
+@app.route('/diet')
+def diet():
+    return render_template('diet.html')
 
 
 @app.route('/recommend', methods=['POST'])
@@ -88,7 +89,6 @@ def recommend():
 
         return render_template('result.html', restaurant_names=restaurant_names,breakfast_names=breakfast_names,dinner_names=dinner_names,workout_names=workout_names)
     return render_template('index.html')
-
 
 
 
